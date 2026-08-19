@@ -1,0 +1,4063 @@
+{
+  "meta": {
+    "title": "NgebutJFT",
+    "source": "JFT-Basic 200 Soal Latihan",
+    "total_questions": 200,
+    "total_bonus": 8,
+    "sections": [
+      {
+        "id": 1,
+        "name": "文字と語彙",
+        "name_id": "Kosakata & Huruf",
+        "range": [
+          1,
+          50
+        ]
+      },
+      {
+        "id": 2,
+        "name": "会話と表現",
+        "name_id": "Percakapan & Ungkapan",
+        "range": [
+          51,
+          100
+        ]
+      },
+      {
+        "id": 3,
+        "name": "聴解",
+        "name_id": "Menyimak",
+        "range": [
+          101,
+          150
+        ]
+      },
+      {
+        "id": 4,
+        "name": "読解",
+        "name_id": "Membaca",
+        "range": [
+          151,
+          200
+        ]
+      }
+    ]
+  },
+  "contexts": [
+    {
+      "context_id": "d1",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：すみません、次の電車は何時ですか。\nB：次は10時15分です。あと5分ありますよ。",
+      "audio_url": null,
+      "question_ids": [
+        101,
+        102
+      ]
+    },
+    {
+      "context_id": "d2",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：田中さん、明日の会議は何時からですか。\nB：10時からですが、9時半に会議室に来てください。準備が必要です。",
+      "audio_url": null,
+      "question_ids": [
+        103,
+        104
+      ]
+    },
+    {
+      "context_id": "d3",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：レストランを予約したいんですが。\nB：何名様で、何時がよろしいですか。\nA：4人で、7時にお願いします。でも、一人はまだ来られるか分かりません。",
+      "audio_url": null,
+      "question_ids": [
+        105,
+        106
+      ]
+    },
+    {
+      "context_id": "d4",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：荷物はどこに置けばいいですか。\nB：そのテーブルの上に置いてください。あとで係の者が運びます。今は誰もいないので、自分で\n運ばなくて大丈夫ですよ。",
+      "audio_url": null,
+      "question_ids": [
+        107,
+        108
+      ]
+    },
+    {
+      "context_id": "d5",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：山田さん、風邪の具合はどうですか。\nB：おかげさまで、だいぶよくなりました。でも、まだ少し咳が出るので、今日は家で休んで、明\n日から会社に行けそうです。",
+      "audio_url": null,
+      "question_ids": [
+        109,
+        110
+      ]
+    },
+    {
+      "context_id": "d6",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：この機械の使い方が分かりません。教えてもらえますか。\nB：いいですよ。まず、この赤いボタンを押してください。それから、青いボタンを押します。緑\nのボタンは最後、電源を切る時だけ使いますよ。",
+      "audio_url": null,
+      "question_ids": [
+        111,
+        112
+      ]
+    },
+    {
+      "context_id": "d7",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：今度の休みに、旅行に行きませんか。\nB：いいですね。でも来週は仕事が忙しいので、再来週はどうですか。\nA：分かりました。じゃあ、再来週の土曜日にしましょう。",
+      "audio_url": null,
+      "question_ids": [
+        113,
+        114
+      ]
+    },
+    {
+      "context_id": "d8",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：コピー機が壊れているみたいです。\nB：本当ですか。じゃあ、隣の部屋のコピー機を使ってください。修理は明日、会社の人が来るそ\nうですが、それまでこの部屋のコピー機は使えません。",
+      "audio_url": null,
+      "question_ids": [
+        115,
+        116
+      ]
+    },
+    {
+      "context_id": "d9",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：すみません、この道でデパートに行けますか。\nB：ここをまっすぐ行って、二つ目の信号を右に曲がってください。そこにコンビニがあるので、\nその先にデパートが見えますよ。",
+      "audio_url": null,
+      "question_ids": [
+        117,
+        118
+      ]
+    },
+    {
+      "context_id": "d10",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：来月から新しいシフトになります。田中さんは火曜日と木曜日の午前です。\nB：分かりました。他の日はお休みですか。\nA：いいえ、水曜日の午後もお願いします。月・金・土・日はお休みです。",
+      "audio_url": null,
+      "question_ids": [
+        119,
+        120
+      ]
+    },
+    {
+      "context_id": "d11",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：お客様、こちらのお部屋は禁煙です。喫煙は3階の喫煙所でお願いします。\nB：分かりました。エレベーターはどこですか。\nA：あちらです。3階でお降りください。",
+      "audio_url": null,
+      "question_ids": [
+        121,
+        122
+      ]
+    },
+    {
+      "context_id": "d12",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：頭が痛くて、熱もあるんです。\nB：それは大変ですね。あそこの病院は今日休みなので、駅前のクリニックに行ったほうがいいで\nすよ。歩いて5分くらいです。",
+      "audio_url": null,
+      "question_ids": [
+        123,
+        124
+      ]
+    },
+    {
+      "context_id": "d13",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：パスポートを更新したいんですが、何が必要ですか。\nB：申請書と写真、それから今のパスポートを持ってきてください。手数料もかかりますが、金額\nは窓口で確認してください。",
+      "audio_url": null,
+      "question_ids": [
+        125,
+        126
+      ]
+    },
+    {
+      "context_id": "d14",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：宅配便が届いたんですが、留守だったので持ち帰られました。\nB：それでは、この番号に電話して、また配達してもらってください。ただ、今日はもう遅いので\n、明日になるかもしれません。",
+      "audio_url": null,
+      "question_ids": [
+        127,
+        128
+      ]
+    },
+    {
+      "context_id": "d15",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：明日の朝礼で、新しいルールについて説明します。全員参加してください。\nB：何時からですか。\nA：8時50分からです。始業は9時なので、始業の10分前に集まってください。",
+      "audio_url": null,
+      "question_ids": [
+        129,
+        130
+      ]
+    },
+    {
+      "context_id": "d16",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：クレジットカードは使えますか。\nB：申し訳ございません、当店は現金のみです。近くにATMがございますが、少し歩きます。",
+      "audio_url": null,
+      "question_ids": [
+        131,
+        132
+      ]
+    },
+    {
+      "context_id": "d17",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：明日、健康診断がありますよね。何も食べないほうがいいですか。\nB：はい、朝9時までは水以外、何も口にしないでください。診断は9時半からです。",
+      "audio_url": null,
+      "question_ids": [
+        133,
+        134
+      ]
+    },
+    {
+      "context_id": "d18",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：ごみは何曜日に出せばいいですか。\nB：燃えるごみは月曜日と木曜日、燃えないごみは第2土曜日です。今週の木曜日は祝日なので、\n燃えるごみの収集はお休みです。",
+      "audio_url": null,
+      "question_ids": [
+        135,
+        136
+      ]
+    },
+    {
+      "context_id": "d19",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：部長、この資料のコピーは何部必要ですか。\nB：会議の参加者は10人ですが、多めに12部お願いします。あ、部長用は別に1部作ってください\n。",
+      "audio_url": null,
+      "question_ids": [
+        137,
+        138
+      ]
+    },
+    {
+      "context_id": "d20",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：あの、注文したものと違う物が届きました。\nB：申し訳ございません。すぐに正しい商品をお送りします。間違えた商品はそのままお持ちくだ\nさい。処分していただいて構いません。",
+      "audio_url": null,
+      "question_ids": [
+        139,
+        140
+      ]
+    },
+    {
+      "context_id": "d21",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：来週の火曜日、休みをいただきたいのですが。\nB：分かりました。理由を教えてもらえますか。\nA：家族の用事があります。\nB：了解しました。他のスタッフに伝えておきますね。",
+      "audio_url": null,
+      "question_ids": [
+        141,
+        142
+      ]
+    },
+    {
+      "context_id": "d22",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：この機械、動かないんです。\nB：電源は入っていますか。\nA：あ、入っていませんでした。\nB：じゃあ、まず電源を入れて、それから緑のランプがつくのを待ってください。",
+      "audio_url": null,
+      "question_ids": [
+        143,
+        144
+      ]
+    },
+    {
+      "context_id": "d23",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：会社のロッカーの鍵をなくしてしまいました。\nB：それは大変ですね。総務課に行って、新しい鍵を作ってもらってください。ただ、身分証明書\nが必要なので、持って行ってくださいね。",
+      "audio_url": null,
+      "question_ids": [
+        145,
+        146
+      ]
+    },
+    {
+      "context_id": "d24",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：明日から研修が始まりますね。持ち物は何ですか。\nB：筆記用具とこのテキスト、それから昼食は各自ご用意ください。会社のパソコンは研修室に用\n意してあるので、持って来なくて大丈夫です。",
+      "audio_url": null,
+      "question_ids": [
+        147,
+        148
+      ]
+    },
+    {
+      "context_id": "d25",
+      "section": 3,
+      "type": "dialogue",
+      "text": "A：来月、工場の機械を新しくします。それで、来月の10日と11日は仕事がお休みになります。\nB：分かりました。給料はどうなりますか。\nA：その2日間も給料は出ますので、ご安心ください。ただし、代わりに別の日に少し残業をお願\nいするかもしれません。",
+      "audio_url": null,
+      "question_ids": [
+        149,
+        150
+      ]
+    },
+    {
+      "context_id": "p1",
+      "section": 4,
+      "type": "passage",
+      "text": "お知らせ\n来週の月曜日（10月13日）、ビルの水道工事のため、午前9時から午後1時まで水が使えません。\nトイレや台所の水は、その時間、出ませんのでご注意ください。工事は12日までに終わる予定で\nしたが、遅れてしまいました。ご迷惑をおかけして申し訳ございません。",
+      "audio_url": null,
+      "question_ids": [
+        151,
+        152,
+        153,
+        154,
+        155
+      ]
+    },
+    {
+      "context_id": "p2",
+      "section": 4,
+      "type": "passage",
+      "text": "田中さんへ\n先日は、引っ越しを手伝ってくださり、ありがとうございました。おかげさまで、思ったより早\nく終わりました。今度、お礼にご飯をご馳走したいので、今週の土曜日の夜、空いていますか。\nもし都合が悪ければ、別の日でも大丈夫です。返事を待っています。\nリナより",
+      "audio_url": null,
+      "question_ids": [
+        156,
+        157,
+        158,
+        159,
+        160
+      ]
+    },
+    {
+      "context_id": "p3",
+      "section": 4,
+      "type": "passage",
+      "text": "スーパーやすだ 特売のお知らせ\n今週金曜日から日曜日まで、野菜と果物が全部20％引きです。特に、りんごは1個80円、たまねぎ\nは3個で100円ととてもお得です。また、土曜日だけ、お米も10％引きになります。ぜひこの機会\nにお買い物にいらしてください。",
+      "audio_url": null,
+      "question_ids": [
+        161,
+        162,
+        163,
+        164,
+        165
+      ]
+    },
+    {
+      "context_id": "p4",
+      "section": 4,
+      "type": "passage",
+      "text": "会社の皆様へ\n来月1日より、社員食堂の営業時間が変わります。今までは11時から14時まででしたが、これから\nは11時半から13時半までになります。また、食堂内の座席数を増やすため、しばらく工事を行い\nます。ご迷惑をおかけしますが、ご協力をお願いします。",
+      "audio_url": null,
+      "question_ids": [
+        166,
+        167,
+        168,
+        169,
+        170
+      ]
+    },
+    {
+      "context_id": "p5",
+      "section": 4,
+      "type": "passage",
+      "text": "道に迷った時は\n1. 近くのコンビニや交番で道を聞いてください。\n2. スマートフォンの地図アプリを使うと便利です。\n3. 電車の駅の名前を覚えておくと、駅員に聞くこともできます。\n4. 迷った場所の写真を撮っておくと、後で説明しやすいです。",
+      "audio_url": null,
+      "question_ids": [
+        171,
+        172,
+        173,
+        174,
+        175
+      ]
+    },
+    {
+      "context_id": "p6",
+      "section": 4,
+      "type": "passage",
+      "text": "アルバイト募集\nカフェ「そら」では、一緒に働く仲間を募集しています。\n時給：1,100円（22時以降は1,375円）\n勤務時間：週2日から、1日3時間からOK\n仕事内容：レジ、接客、簡単な調理\n未経験者も大歓迎です。まずはお電話でお問い合わせください。",
+      "audio_url": null,
+      "question_ids": [
+        176,
+        177,
+        178,
+        179,
+        180
+      ]
+    },
+    {
+      "context_id": "p7",
+      "section": 4,
+      "type": "passage",
+      "text": "〈掲示〉\nエレベーター点検のお知らせ\n日時：8月20日（木）午前10時〜正午\n上記の時間、エレベーターは使用できません。この間、階段をご利用ください。\nご迷惑をおかけしますが、よろしくお願いいたします。\n管理会社",
+      "audio_url": null,
+      "question_ids": [
+        181,
+        182,
+        183,
+        184,
+        185
+      ]
+    },
+    {
+      "context_id": "p8",
+      "section": 4,
+      "type": "passage",
+      "text": "ゴミの出し方について\n・燃えるゴミ：月・木曜日、朝8時までに出してください。\n・燃えないゴミ：第1・第3水曜日\n・資源ゴミ（缶・びん・ペットボトル）：火曜日\n・大きいゴミ（家具など）は事前に市役所に連絡が必要です。指定の袋以外は回収されません。",
+      "audio_url": null,
+      "question_ids": [
+        186,
+        187,
+        188,
+        189,
+        190
+      ]
+    },
+    {
+      "context_id": "p9",
+      "section": 4,
+      "type": "passage",
+      "text": "健康診断のご案内\n今年の健康診断は9月5日〜9月9日の間に、指定の病院で受けてください。予約は各自で行ってく\nださい。診断結果は約2週間後に会社に届きます。当日は朝食を取らずにお越しください。水はお\n飲みいただいて構いません。",
+      "audio_url": null,
+      "question_ids": [
+        191,
+        192,
+        193,
+        194,
+        195
+      ]
+    },
+    {
+      "context_id": "p10",
+      "section": 4,
+      "type": "passage",
+      "text": "バス運休のお知らせ\n台風の影響により、8月28日（金）は市内バスの一部路線が終日運休となります。運休する路線は\n3番、7番、12番です。他の路線は通常通り運行しますが、遅れる場合があります。最新の情報は\nホームページでご確認ください。",
+      "audio_url": null,
+      "question_ids": [
+        196,
+        197,
+        198,
+        199,
+        200
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。 ＿＿今日＿＿は いい 天気ですね。",
+      "options": [
+        "こんにち",
+        "こんじつ",
+        "きょうび",
+        "きょう"
+      ],
+      "answer_index": 3,
+      "explanation": "今日(きょう)=hari ini. こんにちは(salam) sering bikin bingung dengan bacaan こんにち.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "",
+      "highlight": "今日",
+      "sentence_after": "は いい 天気ですね。"
+    },
+    {
+      "id": 2,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n子供は毎朝＿＿学校＿＿へ行きます。",
+      "options": [
+        "がっこ",
+        "かくこう",
+        "がくこう",
+        "がっこう"
+      ],
+      "answer_index": 3,
+      "explanation": "学校=sekolah. がくこう/かくこう salah pelafalan huruf 校(こう).",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "子供は毎朝",
+      "highlight": "学校",
+      "sentence_after": "へ行きます。"
+    },
+    {
+      "id": 3,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n頭が痛いので、＿＿病院＿＿へ行くつもりです。",
+      "options": [
+        "びょういん",
+        "びょうこう",
+        "べょういん",
+        "びよういん"
+      ],
+      "answer_index": 0,
+      "explanation": "病院=rumah sakit. びよういん=salon kecantikan(美容院), sangat mirip bunyinya!",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "頭が痛いので、",
+      "highlight": "病院",
+      "sentence_after": "へ行くつもりです。"
+    },
+    {
+      "id": 4,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n父は大きい＿＿会社＿＿で働いています。",
+      "options": [
+        "かいしゃ",
+        "かいじゃ",
+        "かいしや",
+        "がいしゃ"
+      ],
+      "answer_index": 0,
+      "explanation": "会社=perusahaan.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "父は大きい",
+      "highlight": "会社",
+      "sentence_after": "で働いています。"
+    },
+    {
+      "id": 5,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n毎朝、＿＿電車＿＿で会社へ行きます。",
+      "options": [
+        "てんしゃ",
+        "でんしゃ",
+        "でんちゃ",
+        "でんしや"
+      ],
+      "answer_index": 1,
+      "explanation": "電車=kereta listrik.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "毎朝、",
+      "highlight": "電車",
+      "sentence_after": "で会社へ行きます。"
+    },
+    {
+      "id": 6,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n旅行の前に、＿＿天気＿＿を確認しました。",
+      "options": [
+        "てんけ",
+        "てんぎ",
+        "てんき",
+        "でんき"
+      ],
+      "answer_index": 2,
+      "explanation": "天気=cuaca. でんき=listrik(電気), mirip bunyi tapi beda kanji/arti!",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "旅行の前に、",
+      "highlight": "天気",
+      "sentence_after": "を確認しました。"
+    },
+    {
+      "id": 7,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n最近、＿＿仕事＿＿がとても忙しいです。",
+      "options": [
+        "しこと",
+        "しごと",
+        "じごと",
+        "しごど"
+      ],
+      "answer_index": 1,
+      "explanation": "仕事=pekerjaan.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "最近、",
+      "highlight": "仕事",
+      "sentence_after": "がとても忙しいです。"
+    },
+    {
+      "id": 8,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n週末、母と＿＿買い物＿＿に行きました。",
+      "options": [
+        "がいもの",
+        "かいもの",
+        "こうぶつ",
+        "かいぶつ"
+      ],
+      "answer_index": 1,
+      "explanation": "買い物=belanja.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "週末、母と",
+      "highlight": "買い物",
+      "sentence_after": "に行きました。"
+    },
+    {
+      "id": 9,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n大学で新しい＿＿友達＿＿ができました。",
+      "options": [
+        "とうだち",
+        "ともたち",
+        "ともだち",
+        "どもだち"
+      ],
+      "answer_index": 2,
+      "explanation": "友達=teman.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "大学で新しい",
+      "highlight": "友達",
+      "sentence_after": "ができました。"
+    },
+    {
+      "id": 10,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n正月に＿＿家族＿＿みんなで集まります。",
+      "options": [
+        "かぞく",
+        "かそく",
+        "かぞうく",
+        "がぞく"
+      ],
+      "answer_index": 0,
+      "explanation": "家族=keluarga.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "正月に",
+      "highlight": "家族",
+      "sentence_after": "みんなで集まります。"
+    },
+    {
+      "id": 11,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n会議まで、まだ少し＿＿時間＿＿があります。",
+      "options": [
+        "じがん",
+        "じっかん",
+        "しかん",
+        "じかん"
+      ],
+      "answer_index": 3,
+      "explanation": "時間=waktu.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "会議まで、まだ少し",
+      "highlight": "時間",
+      "sentence_after": "があります。"
+    },
+    {
+      "id": 12,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n学生たちは今、＿＿教室＿＿で勉強しています。",
+      "options": [
+        "きょうしつ",
+        "きょうしゅつ",
+        "きょうじつ",
+        "こうしつ"
+      ],
+      "answer_index": 0,
+      "explanation": "教室=ruang kelas. 教室 vs 休日(きゅうじつ) bunyi mirip.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "学生たちは今、",
+      "highlight": "教室",
+      "sentence_after": "で勉強しています。"
+    },
+    {
+      "id": 13,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n借りた本を＿＿図書館＿＿に返しました。",
+      "options": [
+        "としょがん",
+        "としょうかん",
+        "とうしょかん",
+        "としょかん"
+      ],
+      "answer_index": 3,
+      "explanation": "図書館=perpustakaan.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "借りた本を",
+      "highlight": "図書館",
+      "sentence_after": "に返しました。"
+    },
+    {
+      "id": 14,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\nお金をおろすため、＿＿銀行＿＿に寄りました。",
+      "options": [
+        "きんこう",
+        "ぎんごう",
+        "ぎんこう",
+        "ぎんこ"
+      ],
+      "answer_index": 2,
+      "explanation": "銀行=bank. きんこう=金庫(brankas)/keseimbangan, mirip bunyi.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "お金をおろすため、",
+      "highlight": "銀行",
+      "sentence_after": "に寄りました。"
+    },
+    {
+      "id": 15,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n荷物を送るため、＿＿郵便局＿＿へ行きます。",
+      "options": [
+        "ゆうびんぎょく",
+        "ゆうべんきょく",
+        "ゆうびんきょく",
+        "ゆびんきょく"
+      ],
+      "answer_index": 2,
+      "explanation": "郵便局=kantor pos.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "荷物を送るため、",
+      "highlight": "郵便局",
+      "sentence_after": "へ行きます。"
+    },
+    {
+      "id": 16,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n＿＿空港＿＿まで、バスで一時間かかります。",
+      "options": [
+        "くうごう",
+        "くこう",
+        "こうくう",
+        "くうこう"
+      ],
+      "answer_index": 3,
+      "explanation": "空港=bandara. こうくう=航空(penerbangan), urutan kanjinya kebalik!",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "",
+      "highlight": "空港",
+      "sentence_after": "まで、バスで一時間かかります。"
+    },
+    {
+      "id": 17,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n母は今、＿＿台所＿＿で料理をしています。",
+      "options": [
+        "だいとこ",
+        "だいところ",
+        "たいどころ",
+        "だいどころ"
+      ],
+      "answer_index": 3,
+      "explanation": "台所=dapur.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "母は今、",
+      "highlight": "台所",
+      "sentence_after": "で料理をしています。"
+    },
+    {
+      "id": 18,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n休みの日に＿＿洗濯＿＿をします。",
+      "options": [
+        "せんだく",
+        "せんたっく",
+        "せんたく",
+        "せんとく"
+      ],
+      "answer_index": 2,
+      "explanation": "洗濯=cuci baju. せんとく mirip bunyi 選択(pilihan).",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "休みの日に",
+      "highlight": "洗濯",
+      "sentence_after": "をします。"
+    },
+    {
+      "id": 19,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\nお客さんが来る前に、部屋の＿＿掃除＿＿をしました。",
+      "options": [
+        "しょうじ",
+        "そうぢ",
+        "そうじ",
+        "そうし"
+      ],
+      "answer_index": 2,
+      "explanation": "掃除=bersih-bersih.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "お客さんが来る前に、部屋の",
+      "highlight": "掃除",
+      "sentence_after": "をしました。"
+    },
+    {
+      "id": 20,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n彼女の作る＿＿料理＿＿はとてもおいしいです。",
+      "options": [
+        "りょり",
+        "りょううり",
+        "りゅうり",
+        "りょうり"
+      ],
+      "answer_index": 3,
+      "explanation": "料理=masakan.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "彼女の作る",
+      "highlight": "料理",
+      "sentence_after": "はとてもおいしいです。"
+    },
+    {
+      "id": 21,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n電車の中で＿＿財布＿＿をなくしてしまいました。",
+      "options": [
+        "さいぶ",
+        "さいふ",
+        "ざいふ",
+        "さいほ"
+      ],
+      "answer_index": 1,
+      "explanation": "財布=dompet.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "電車の中で",
+      "highlight": "財布",
+      "sentence_after": "をなくしてしまいました。"
+    },
+    {
+      "id": 22,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n字が小さくて見えないので、＿＿眼鏡＿＿をかけます。",
+      "options": [
+        "めがね",
+        "めがみ",
+        "めかがみ",
+        "がんきょう"
+      ],
+      "answer_index": 0,
+      "explanation": "眼鏡=kacamata. がんきょう adalah cara baca on'yomi yang jarang dipakai untuk kata ini.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "字が小さくて見えないので、",
+      "highlight": "眼鏡",
+      "sentence_after": "をかけます。"
+    },
+    {
+      "id": 23,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n友達との＿＿約束＿＿を忘れてしまいました。",
+      "options": [
+        "やくそく",
+        "よくそく",
+        "やくすく",
+        "やくたば"
+      ],
+      "answer_index": 0,
+      "explanation": "約束=janji.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "友達との",
+      "highlight": "約束",
+      "sentence_after": "を忘れてしまいました。"
+    },
+    {
+      "id": 24,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n先生が新しいルールについて＿＿説明＿＿しました。",
+      "options": [
+        "せつめえ",
+        "せつめい",
+        "せいめい",
+        "せつみょう"
+      ],
+      "answer_index": 1,
+      "explanation": "説明=penjelasan. せいめい=nama(姓名)/nyawa(生命), mirip bunyi.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "先生が新しいルールについて",
+      "highlight": "説明",
+      "sentence_after": "しました。"
+    },
+    {
+      "id": 25,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "kanji_reading",
+      "context_id": null,
+      "prompt": "＿＿の ことばは ひらがなで どう かきますか。\n来月の旅行の＿＿予定＿＿を立てています。",
+      "options": [
+        "よてい",
+        "よじょう",
+        "よてえ",
+        "よってい"
+      ],
+      "answer_index": 0,
+      "explanation": "予定=jadwal/rencana.",
+      "instruction": "の ことばは ひらがなで どう かきますか。",
+      "sentence_before": "来月の旅行の",
+      "highlight": "予定",
+      "sentence_after": "を立てています。"
+    },
+    {
+      "id": 26,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "毎日 仕事が 多くて、とても＿＿＿です。",
+      "options": [
+        "いそがしい",
+        "つかれた",
+        "ひまな",
+        "たいへん"
+      ],
+      "answer_index": 0,
+      "explanation": "'仕事が多い'=banyak kerjaan → 忙しい(sibuk). たいへん(berat/susah) dan つかれた(lelah) juga masuk akal secara emosi, tapi tidak secara langsung berarti 'banyak pekerjaan'; harus dibedakan dari sebab-akibatnya."
+    },
+    {
+      "id": 27,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "この駅から会社まで近いので、とても＿＿＿です。",
+      "options": [
+        "らく",
+        "べんり",
+        "はやい",
+        "かんたん"
+      ],
+      "answer_index": 1,
+      "explanation": "'便利'=praktis/memudahkan aktivitas. らく(nyaman secara fisik), はやい(cepat), かんたん(mudah dilakukan) semuanya masuk akal tapi maknanya lebih sempit — 便利 mencakup makna kepraktisan secara umum."
+    },
+    {
+      "id": 28,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "工事中の道は＿＿＿から、気をつけてください。",
+      "options": [
+        "ふべん",
+        "あぶない",
+        "たいへん",
+        "うるさい"
+      ],
+      "answer_index": 1,
+      "explanation": "Ada konstruksi jalan → berbahaya(危ない) karena berisiko cedera. たいへん(merepotkan) dan ふべん(tidak praktis) juga relevan dengan konstruksi jalan, tapi tidak menjelaskan alasan HARUS berhati-hati (yaitu risiko fisik)."
+    },
+    {
+      "id": 29,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "夜、この図書館はとても＿＿＿です。",
+      "options": [
+        "さびしい",
+        "くらい",
+        "おだやか",
+        "しずか"
+      ],
+      "answer_index": 3,
+      "explanation": "静か=sepi/tenang (tidak ada suara). おだやか(tenteram, biasanya untuk suasana hati/cuaca), くらい(gelap), さびしい(sepi secara emosional/kesepian) — semua dekat maknanya tapi tidak persis sama dengan 'tidak berisik'."
+    },
+    {
+      "id": 30,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "お祭りの日、駅前はとても＿＿＿でした。",
+      "options": [
+        "にぎやか",
+        "たのしい",
+        "にんきがあった",
+        "おおかった"
+      ],
+      "answer_index": 0,
+      "explanation": "にぎやか=ramai (dari segi suara/aktivitas orang). たのしい(menyenangkan) menjelaskan perasaan, bukan kondisi tempatnya; にんきがある(populer)／おおい(banyak) tidak secara khusus menjelaskan suasana ramai-riuh."
+    },
+    {
+      "id": 31,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "あの店員さんはとても＿＿＿で、丁寧に教えてくれました。",
+      "options": [
+        "しんせつ",
+        "やさしい",
+        "まじめ",
+        "ていねい"
+      ],
+      "answer_index": 0,
+      "explanation": "親切=baik hati/suka membantu. 丁寧(sopan/teliti) dan やさしい(lembut) sangat dekat maknanya dengan 親切, sehingga soal ini menuntut pemahaman nuansa halus antar kata sifat kepribadian."
+    },
+    {
+      "id": 32,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "パスポートがないと、海外旅行に行くことができません。パスポートは＿＿＿な物です。",
+      "options": [
+        "たかい",
+        "べんり",
+        "たいせつ",
+        "ひつよう"
+      ],
+      "answer_index": 3,
+      "explanation": "Konteks 'tanpa paspor tidak bisa pergi ke luar negeri' menegaskan sifat WAJIB ADA → 必要(diperlukan). 大切(berharga secara emosional/tidak boleh hilang) tetap masuk akal secara umum, tapi kalimat ini secara spesifik menekankan syarat mutlak, bukan nilai sentimental, jadi 必要 lebih tepat."
+    },
+    {
+      "id": 33,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "この問題は＿＿＿ので、すぐ終わりました。",
+      "options": [
+        "べんり",
+        "かんたん",
+        "らく",
+        "はやい"
+      ],
+      "answer_index": 1,
+      "explanation": "簡単=mudah dikerjakan. らく(tidak melelahkan) dan はやい(cepat) berhubungan tapi bukan sebab utama 'cepat selesai' — yang membuat cepat selesai adalah karena soalnya mudah, bukan karena santai/cepat itu sendiri."
+    },
+    {
+      "id": 34,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "この漢字は＿＿＿て、何回も練習しました。",
+      "options": [
+        "むずかしい",
+        "ふくざつ",
+        "たいへん",
+        "めんどう"
+      ],
+      "answer_index": 0,
+      "explanation": "難しい=sulit dipahami/dikuasai. たいへん(berat), めんどう(merepotkan), ふくざつ(rumit) semuanya dekat maknanya dengan 'sulit', menuntut peserta memilih kata yang paling pas untuk konteks belajar kanji."
+    },
+    {
+      "id": 35,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "休みの日に友達と遊ぶのは＿＿＿です。",
+      "options": [
+        "うれしい",
+        "おもしろい",
+        "たのしい",
+        "しあわせ"
+      ],
+      "answer_index": 2,
+      "explanation": "楽しい=menyenangkan (aktivitas/pengalaman berkelanjutan). うれしい(senang, biasanya reaksi sesaat), おもしろい(menarik/lucu), しあわせ(bahagia) semuanya emosi positif yang berdekatan tapi konteks pemakaiannya berbeda."
+    },
+    {
+      "id": 36,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "薬を飲んだら、少し＿＿＿に なりました。",
+      "options": [
+        "あんしん",
+        "げんき",
+        "らく",
+        "じょうぶ"
+      ],
+      "answer_index": 1,
+      "explanation": "元気=sehat/bertenaga (kondisi setelah minum obat). 丈夫(kuat secara fisik jangka panjang), 安心(lega), 楽(nyaman) semuanya berhubungan dengan kondisi membaik tapi nuansanya berbeda dari 'kembali bertenaga'."
+    },
+    {
+      "id": 37,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "子供が 熱を出したので、とても＿＿＿です。",
+      "options": [
+        "たいへん",
+        "ふあん",
+        "こまる",
+        "しんぱい"
+      ],
+      "answer_index": 3,
+      "explanation": "心配=khawatir (memikirkan kondisi anak). 不安(cemas, lebih ke perasaan tak menentu) sangat dekat maknanya; こまる(kesulitan) dan たいへん(berat) juga masuk akal tapi tidak menyoroti aspek 'mengkhawatirkan seseorang'."
+    },
+    {
+      "id": 38,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "チケットが もう 売り切れて、＿＿＿です。",
+      "options": [
+        "こまる",
+        "たいへん",
+        "ざんねん",
+        "がっかり"
+      ],
+      "answer_index": 2,
+      "explanation": "残念=sayang sekali (kekecewaan ringan atas suatu hasil). がっかり(kecewa) sangat dekat maknanya; こまる(bingung/kesulitan) dan たいへん(berat) kurang tepat karena tiket habis bukan masalah besar yang merepotkan."
+    },
+    {
+      "id": 39,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "この料理は＿＿＿辛いので、気をつけてください。",
+      "options": [
+        "やはり",
+        "とくに",
+        "もちろん",
+        "けっこう"
+      ],
+      "answer_index": 1,
+      "explanation": "特に=terutama/khususnya (menonjolkan satu poin). やはり(seperti dugaan), もちろん(tentu saja), けっこう(lumayan) semuanya kata keterangan derajat/pendapat yang mirip nuansanya tapi tidak spesifik menekankan satu hal."
+    },
+    {
+      "id": 40,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "明日は雨が＿＿＿降るでしょう。",
+      "options": [
+        "きっと",
+        "たぶん",
+        "ぜったい",
+        "たしか"
+      ],
+      "answer_index": 1,
+      "explanation": "たぶん=mungkin (perkiraan, tidak pasti). きっと(pasti/yakin) dan ぜったい(mutlak) menyatakan keyakinan lebih tinggi, sehingga kurang cocok dengan 'でしょう' yang menunjukkan ketidakpastian."
+    },
+    {
+      "id": 41,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "＿＿＿雨が降ったら、試合は中止です。",
+      "options": [
+        "もしかしたら",
+        "たとえ",
+        "まんがいち",
+        "もし"
+      ],
+      "answer_index": 3,
+      "explanation": "もし=jika/andaikan (pengandaian umum). たとえ〜ても(meski/sekalipun) punya struktur berbeda, もしかしたら(barangkali) dan 万が一(seandainya/kemungkinan kecil) mirip tapi punya nuansa probabilitas yang berbeda."
+    },
+    {
+      "id": 42,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "バスが来ないので、＿＿＿家を出ましょう。",
+      "options": [
+        "そのうち",
+        "そろそろ",
+        "もうすぐ",
+        "やがて"
+      ],
+      "answer_index": 1,
+      "explanation": "そろそろ=sebentar lagi (saatnya bertindak sekarang). もうすぐ(akan segera terjadi), やがて／そのうち(nanti, entah kapan) semuanya soal waktu dekat tapi tidak semuanya mengandung ajakan bertindak SEKARANG."
+    },
+    {
+      "id": 43,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "日本語が＿＿＿上手に なってきました。",
+      "options": [
+        "いつも",
+        "わりと",
+        "だんだん",
+        "だいぶ"
+      ],
+      "answer_index": 2,
+      "explanation": "だんだん=semakin lama semakin (proses bertahap, berubah dari waktu ke waktu). いつも(selalu) menyatakan kebiasaan tetap, bukan perubahan; だいぶ(cukup banyak) dan わりと(lumayan) hanya menyatakan derajat saat ini, bukan proses perubahan bertahap."
+    },
+    {
+      "id": 44,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "空が＿＿＿暗くなって、雨が降り始めました。",
+      "options": [
+        "だんだん",
+        "すぐに",
+        "そろそろ",
+        "きゅうに"
+      ],
+      "answer_index": 3,
+      "explanation": "急に=perubahan yang MENDADAK/tak terduga. すぐに(segera) menekankan kecepatan waktu terjadinya, bukan sifat tak terduganya; だんだん(berangsur, berlawanan arah) dan そろそろ(sebentar lagi, untuk rencana) jelas tidak cocok."
+    },
+    {
+      "id": 45,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "三時間も待って、＿＿＿バスが来ました。",
+      "options": [
+        "やっと",
+        "とうとう",
+        "そのうち",
+        "まだ"
+      ],
+      "answer_index": 0,
+      "explanation": "やっと=akhirnya (setelah menunggu lama, dengan nuansa lega — pas untuk 'menunggu 3 jam lalu bus datang'). とうとう(akhirnya, kadang berujung hal negatif) masih relevan tapi nuansanya sedikit beda; そのうち(kelak) dan まだ(belum) jelas salah karena bus SUDAH datang."
+    },
+    {
+      "id": 46,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "忙しい時は＿＿＿手伝いますので、言ってください。",
+      "options": [
+        "ぜんぜん",
+        "せいぜい",
+        "できるだけ",
+        "どうにか"
+      ],
+      "answer_index": 2,
+      "explanation": "できるだけ=semaksimal mungkin (janji usaha besar). せいぜい(paling banter, nuansa membatasi) dan どうにか(bagaimanapun caranya, nuansa terpaksa) beda kadar kesungguhannya; ぜんぜん(sama sekali) jelas berlawanan makna."
+    },
+    {
+      "id": 47,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "薬は食事の後、＿＿＿飲んでください。",
+      "options": [
+        "たしかに",
+        "かならず",
+        "ぜひ",
+        "きっと"
+      ],
+      "answer_index": 1,
+      "explanation": "必ず=pasti/wajib (instruksi tegas). きっと(yakin, biasanya untuk prediksi) dan ぜひ(dengan sangat, untuk permintaan/harapan) berbeda konteks; たしかに(memang benar) dipakai untuk menyetujui fakta, bukan memberi instruksi."
+    },
+    {
+      "id": 48,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "この店には、＿＿＿パンやケーキがあります。",
+      "options": [
+        "いわば",
+        "ようするに",
+        "たとえば",
+        "つまり"
+      ],
+      "answer_index": 2,
+      "explanation": "たとえば=misalnya (memberi contoh konkret). いわば(bisa dibilang), つまり／ようするに(singkatnya) semuanya kata penghubung penjelas tapi fungsinya beda: menyimpulkan, bukan memberi contoh."
+    },
+    {
+      "id": 49,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "値段が安いです。＿＿＿、味もいいです。",
+      "options": [
+        "それに",
+        "だが",
+        "しかし",
+        "つまり"
+      ],
+      "answer_index": 0,
+      "explanation": "それに=selain itu (menambahkan poin SENADA/searah). だが／しかし adalah penanda PERTENTANGAN, jadi salah arah karena kalimat kedua memperkuat, bukan membantah, poin pertama; つまり(dengan kata lain) adalah penanda KESIMPULAN, bukan penambahan poin baru."
+    },
+    {
+      "id": 50,
+      "section": 1,
+      "section_name": "文字と語彙",
+      "section_name_id": "Kosakata & Huruf",
+      "subtype": "vocab_usage",
+      "context_id": null,
+      "prompt": "約束の時間に、＿＿＿着きました。",
+      "options": [
+        "ぴったり",
+        "まさに",
+        "ちょうど",
+        "きっちり"
+      ],
+      "answer_index": 2,
+      "explanation": "ちょうど=tepat/pas (waktu). まさに(persis, lebih formal/sastrawi), ぴったり(pas-cocok, sering untuk ukuran), きっちり(persis, kaku) semuanya dekat maknanya, menuntut pemilihan kata paling wajar untuk konteks waktu janji."
+    },
+    {
+      "id": 51,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "初めて会う人にあいさつします。何と言いますか。",
+      "options": [
+        "はじめまして。よろしくお願いします。",
+        "お疲れ様です。よろしくお願いします。",
+        "こんにちは。お元気ですか。",
+        "どうも、ありがとうございます。"
+      ],
+      "answer_index": 0,
+      "explanation": "はじめまして=salam KHUSUS perkenalan pertama kali. お疲れ様です dipakai ke rekan yang sudah dikenal di tempat kerja; こんにちは・お元気ですか dipakai ke orang yang SUDAH kenal, bukan pertemuan pertama."
+    },
+    {
+      "id": 52,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会社で、先に帰ることになりました。まだ仕事をしている同僚に何と言いますか。",
+      "options": [
+        "ただいま。",
+        "お先に失礼します。",
+        "お疲れ様でした。",
+        "いってらっしゃい。"
+      ],
+      "answer_index": 1,
+      "explanation": "お先に失礼します=dikatakan orang yang pulang DULUAN ke rekan yang masih bekerja. お疲れ様でした biasanya dijawab OLEH rekan yang ditinggal, bukan diucapkan oleh yang pergi."
+    },
+    {
+      "id": 53,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "同僚が先に帰ります。あなたは何と言いますか。",
+      "options": [
+        "いってきます。",
+        "お疲れ様でした。",
+        "おかえりなさい。",
+        "お先に失礼します。"
+      ],
+      "answer_index": 1,
+      "explanation": "Menjawab rekan yang pulang duluan → お疲れ様でした。お先に失礼します justru diucapkan oleh orang yang PERGI, bukan yang ditinggal."
+    },
+    {
+      "id": 54,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "食事の前に何と言いますか。",
+      "options": [
+        "どうぞ召し上がってください。",
+        "お腹が空きました。",
+        "いただきます。",
+        "ごちそうさまでした。"
+      ],
+      "answer_index": 2,
+      "explanation": "いただきます diucapkan SEBELUM makan oleh yang akan makan. どうぞ召し上がってください justru diucapkan tuan rumah kepada tamu, bukan oleh diri sendiri sebelum makan."
+    },
+    {
+      "id": 55,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "食事が終わった後、何と言いますか。",
+      "options": [
+        "ごちそうさまでした。",
+        "お腹がいっぱいです。",
+        "いただきます。",
+        "とてもおいしかったです。"
+      ],
+      "answer_index": 0,
+      "explanation": "ごちそうさまでした adalah ungkapan BAKU setelah makan. お腹がいっぱいです・とてもおいしかったです adalah komentar yang mungkin diucapkan, tapi bukan ungkapan formal wajib setelah makan."
+    },
+    {
+      "id": 56,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "人の家に初めて入る時、何と言いますか。",
+      "options": [
+        "ただいま。",
+        "いらっしゃいませ。",
+        "お邪魔します。",
+        "失礼しました。"
+      ],
+      "answer_index": 2,
+      "explanation": "お邪魔します=diucapkan saat MASUK ke rumah orang lain. いらっしゃいませ diucapkan TUAN RUMAH ke tamu, bukan sebaliknya; 失礼しました dipakai saat PERGI/selesai, bukan saat masuk."
+    },
+    {
+      "id": 57,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "家を出る時、家族に何と言いますか。",
+      "options": [
+        "いってきます。",
+        "お邪魔します。",
+        "いってらっしゃい。",
+        "ただいま。"
+      ],
+      "answer_index": 0,
+      "explanation": "いってきます diucapkan orang yang AKAN PERGI. いってらっしゃい justru dijawab oleh yang di rumah kepada yang pergi — kebalikannya."
+    },
+    {
+      "id": 58,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "家に帰った時、家族に何と言いますか。",
+      "options": [
+        "おかえりなさい。",
+        "ただいま。",
+        "いってきます。",
+        "こんばんは。"
+      ],
+      "answer_index": 1,
+      "explanation": "ただいま diucapkan orang yang BARU PULANG. おかえりなさい justru dijawab oleh keluarga yang menyambut — kebalikannya."
+    },
+    {
+      "id": 59,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "寝る前に家族に何と言いますか。",
+      "options": [
+        "おやすみなさい。",
+        "お先に失礼します。",
+        "お疲れ様でした。",
+        "いってきます。"
+      ],
+      "answer_index": 0,
+      "explanation": "おやすみなさい=ungkapan khusus sebelum tidur. お先に失礼します／お疲れ様でした dipakai di konteks kerja/kepulangan, bukan sebelum tidur di rumah."
+    },
+    {
+      "id": 60,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "電車で、うっかり人の足を踏んでしまいました。何と言いますか。",
+      "options": [
+        "大丈夫ですか。",
+        "どういたしまして。",
+        "すみません。",
+        "気をつけてください。"
+      ],
+      "answer_index": 2,
+      "explanation": "すみません=meminta maaf karena kesalahan sendiri (menginjak kaki orang). 大丈夫ですか lebih cocok ditanyakan kepada orang yang TERLIHAT terluka/kesulitan, bukan sebagai permintaan maaf; 気をつけてください malah terkesan menyalahkan lawan bicara."
+    },
+    {
+      "id": 61,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "道が分からない時、駅員に何と言いますか。",
+      "options": [
+        "駅はどこか知っていますか。",
+        "すみません、駅はどこですか。",
+        "駅を教えてください。",
+        "駅に行きたいです。"
+      ],
+      "answer_index": 1,
+      "explanation": "すみません、〜はどこですか=cara paling sopan & natural bertanya arah ke orang asing/petugas. Opsi lain secara tata bahasa bisa dipahami tapi terdengar kurang sopan/kurang natural sebagai pembuka pertanyaan."
+    },
+    {
+      "id": 62,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "部屋に入る許可をもらいたいです。何と言いますか。",
+      "options": [
+        "入ってもよろしかったですか。",
+        "入ります。",
+        "入るつもりです。",
+        "入ってもいいですか。"
+      ],
+      "answer_index": 3,
+      "explanation": "〜てもいいですか=bentuk standar meminta izin. 入ります／入るつもりです adalah pernyataan niat, BUKAN permintaan izin; 入ってもよろしかったですか (bentuk lampau) tidak natural dipakai untuk meminta izin saat ini."
+    },
+    {
+      "id": 63,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "同僚に手伝ってほしいです。何と言いますか。",
+      "options": [
+        "手伝ってもらえますか。",
+        "手伝わなければなりません。",
+        "手伝ってください。",
+        "手伝いましょうか。"
+      ],
+      "answer_index": 0,
+      "explanation": "手伝ってもらえますか=permintaan bantuan yang sopan & natural. 手伝ってください lebih terkesan perintah langsung; 手伝いましょうか justru berarti PEMBICARA yang menawarkan bantuan, bukan meminta."
+    },
+    {
+      "id": 64,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会議に遅れそうです。上司に何と言いますか。",
+      "options": [
+        "会議は必要ないと思います。",
+        "会議には行きません。",
+        "後で連絡します。",
+        "すみません、少し遅れます。"
+      ],
+      "answer_index": 3,
+      "explanation": "Melaporkan keterlambatan secara jelas dan sopan → すみません、少し遅れます。Opsi lain tidak menyampaikan informasi penting (bahwa akan terlambat) secara langsung."
+    },
+    {
+      "id": 65,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "お客さんに飲み物を勧めます。何と言いますか。",
+      "options": [
+        "飲み物をどうぞ持ってきてください。",
+        "何か飲み物はいかがですか。",
+        "飲み物が欲しいですか。",
+        "何か飲みますか、飲みませんか。"
+      ],
+      "answer_index": 1,
+      "explanation": "〜はいかがですか=cara sopan menawarkan sesuatu ke tamu. 欲しいですか terdengar kurang halus; 持ってきてください salah arah (menyuruh tamu mengambil sendiri); 飲みますか、飲みませんか terlalu kaku/langsung."
+    },
+    {
+      "id": 66,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "プレゼントをもらいました。何と言いますか。",
+      "options": [
+        "すみません、いただきます。",
+        "本当にいいんですか。",
+        "気を使わないでください。",
+        "ありがとうございます。"
+      ],
+      "answer_index": 3,
+      "explanation": "Ucapan terima kasih standar saat menerima hadiah → ありがとうございます。Opsi lain bisa saja diucapkan tambahan, tapi bukan respons UTAMA yang diharapkan."
+    },
+    {
+      "id": 67,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "同僚が結婚しました。何と言いますか。",
+      "options": [
+        "それは大変ですね。",
+        "おめでとうございます。",
+        "よかったですね、頑張ってください。",
+        "お幸せに、お大事に。"
+      ],
+      "answer_index": 1,
+      "explanation": "おめでとうございます=ucapan selamat standar untuk berita bahagia (menikah). 頑張ってください biasanya untuk menyemangati tantangan, kurang pas untuk kabar bahagia; お大事に khusus untuk orang SAKIT, bukan menikah."
+    },
+    {
+      "id": 68,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "同僚が病気で休みます。何と言いますか。",
+      "options": [
+        "それはよかったですね。",
+        "頑張ってください。",
+        "お大事に。",
+        "気をつけて行ってきてください。"
+      ],
+      "answer_index": 2,
+      "explanation": "お大事に=ungkapan standar untuk orang sakit. 頑張ってください kurang pas (orang sakit perlu istirahat, bukan 'berjuang'); よかったですね berlawanan makna dengan situasi sakit."
+    },
+    {
+      "id": 69,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "約束の時間に間に合いませんでした。何と言いますか。",
+      "options": [
+        "道が混んでいました。",
+        "時間がありませんでした。",
+        "遅れてすみません。",
+        "急いで来ました。"
+      ],
+      "answer_index": 2,
+      "explanation": "遅れてすみません secara langsung meminta maaf atas keterlambatan. Opsi lain hanya menjelaskan ALASAN tanpa menyampaikan permintaan maaf yang jelas."
+    },
+    {
+      "id": 70,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "電話で相手が話し中の時、店員は何と言いますか。",
+      "options": [
+        "はい、どうぞお話しください。",
+        "また今度お電話します。",
+        "少々お待ちください。",
+        "電話に出られません。"
+      ],
+      "answer_index": 2,
+      "explanation": "少々お待ちください=cara sopan meminta pelanggan menunggu sebentar saat telepon sedang sibuk. Opsi lain tidak sesuai konteks (bukan pelanggan yang bicara, dan tidak menyampaikan permintaan menunggu)."
+    },
+    {
+      "id": 71,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "電話をかけて、相手の声が聞こえにくい時、何と言いますか。",
+      "options": [
+        "はい、わかりました。",
+        "少々お待ちください。",
+        "何を言っているんですか。",
+        "すみません、もう一度お願いします。"
+      ],
+      "answer_index": 3,
+      "explanation": "Meminta diulang dengan sopan → もう一度お願いします。何を言っているんですか terlalu kasar/tidak sopan untuk situasi profesional."
+    },
+    {
+      "id": 72,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "店で店員に手伝ってほしいです。何と言いますか。",
+      "options": [
+        "手伝いなさい。",
+        "すみません、ちょっといいですか。",
+        "早くしてください。",
+        "店員はどこですか。"
+      ],
+      "answer_index": 1,
+      "explanation": "すみません、ちょっといいですか=cara sopan memanggil pelayan toko. Opsi lain terlalu memerintah atau kurang natural sebagai kalimat pembuka."
+    },
+    {
+      "id": 73,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "レストランで注文したいです。店員をどう呼びますか。",
+      "options": [
+        "すみません。",
+        "店員さん、早く来て。",
+        "ここに来てください。",
+        "注文したいので、来てください。"
+      ],
+      "answer_index": 0,
+      "explanation": "すみません=cara paling umum & sopan memanggil pelayan restoran. Opsi lain terdengar seperti perintah langsung, kurang natural sebagai panggilan pembuka."
+    },
+    {
+      "id": 74,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会社で分からないことがあります。上司に何と聞きますか。",
+      "options": [
+        "私には無理です。",
+        "教えてください、今すぐ。",
+        "これは分かりません。",
+        "これはどうすればいいですか。"
+      ],
+      "answer_index": 3,
+      "explanation": "どうすればいいですか=cara bertanya yang natural & proaktif ke atasan. これは分かりません hanya menyatakan kondisi tanpa bertanya; 私には無理です terkesan menyerah, bukan bertanya."
+    },
+    {
+      "id": 75,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "仕事のやり方を教えてもらいました。何と言いますか。",
+      "options": [
+        "分かりました、ありがとうございます。",
+        "他にやり方はありませんか。",
+        "もう知っていました。",
+        "それは簡単すぎます。"
+      ],
+      "answer_index": 0,
+      "explanation": "Respons sopan menerima penjelasan → 分かりました、ありがとうございます。Opsi lain terkesan meremehkan penjelasan yang baru diberikan."
+    },
+    {
+      "id": 76,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "誘われましたが、都合が悪いです。何と言いますか。",
+      "options": [
+        "興味がありません。",
+        "すみません、その日はちょっと…。",
+        "行きたくないです。",
+        "他の人を誘ってください。"
+      ],
+      "answer_index": 1,
+      "explanation": "その日はちょっと…=cara MENOLAK secara halus khas bahasa Jepang (tidak menyebut alasan secara terus terang). Opsi lain terlalu blak-blakan/kurang sopan untuk menolak ajakan."
+    },
+    {
+      "id": 77,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会議室を使いたいですが、使われているかもしれません。何と聞きますか。",
+      "options": [
+        "会議室を使ってください。",
+        "会議室はどこにありますか。",
+        "今、使ってもいいですか。",
+        "この部屋は誰のですか。"
+      ],
+      "answer_index": 2,
+      "explanation": "使ってもいいですか secara langsung meminta izin memakai ruangan yang mungkin sedang dipakai. Opsi lain tidak menanyakan izin penggunaan saat itu."
+    },
+    {
+      "id": 78,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "お店で買った服のサイズが合いません。何と言いますか。",
+      "options": [
+        "これを交換してもらえますか。",
+        "サイズが小さいです。",
+        "他のを見せてください。",
+        "これは要りません、返金してください。"
+      ],
+      "answer_index": 0,
+      "explanation": "交換してもらえますか secara spesifik meminta TUKAR ukuran (bukan minta uang kembali atau sekadar komentar). Opsi lain bisa jadi respons lanjutan, tapi bukan permintaan utama yang tepat di sini."
+    },
+    {
+      "id": 79,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "荷物が重いので、手伝ってほしいです。何と言いますか。",
+      "options": [
+        "これは重いです。",
+        "これを持ってもらえますか。",
+        "誰か手伝ってください、これを。",
+        "手伝ってくれますか、お願い。"
+      ],
+      "answer_index": 1,
+      "explanation": "持ってもらえますか=bentuk permintaan sopan yang natural. これは重いです hanya pernyataan fakta tanpa permintaan jelas; opsi lain kurang natural secara tata bahasa/kesopanan."
+    },
+    {
+      "id": 80,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "エレベーターで人を先に行かせたいです。何と言いますか。",
+      "options": [
+        "どうぞお先に。",
+        "私が先に行きます。",
+        "早く行ってください。",
+        "一緒に行きましょう。"
+      ],
+      "answer_index": 0,
+      "explanation": "どうぞお先に=ungkapan sopan mempersilakan orang lain duluan masuk lift. 早く行ってください terkesan memerintah/tidak sabar."
+    },
+    {
+      "id": 81,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "忘れ物をしたことに気づきました。何と言いますか。",
+      "options": [
+        "問題ありません。",
+        "あ、忘れ物をしてしまいました。",
+        "気をつけていました。",
+        "忘れ物はありません。"
+      ],
+      "answer_index": 1,
+      "explanation": "忘れ物をしてしまいました=mengungkapkan penyesalan/kesadaran baru saja tersadar. Opsi lain justru menyangkal fakta bahwa ada barang tertinggal."
+    },
+    {
+      "id": 82,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "上司に休みをお願いしたいです。何と言いますか。",
+      "options": [
+        "来週、休みでもいいですか、だめですか。",
+        "休みが欲しいです。",
+        "来週は休みます。",
+        "来週、休みをいただけますか。"
+      ],
+      "answer_index": 3,
+      "explanation": "休みをいただけますか=bentuk permintaan sopan (kego) yang tepat untuk atasan. 来週は休みます terdengar seperti PEMBERITAHUAN sepihak, bukan permintaan izin."
+    },
+    {
+      "id": 83,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "初めての仕事で緊張している同僚に、あなたは何と声をかけますか。",
+      "options": [
+        "頑張らなくてもいいですよ。",
+        "簡単ですから、心配しないで。",
+        "私も緊張します。",
+        "大丈夫、頑張ってください。"
+      ],
+      "answer_index": 3,
+      "explanation": "大丈夫、頑張ってください=dukungan yang natural & umum untuk rekan yang gugup. 簡単ですから meremehkan kesulitan tugas; 頑張らなくてもいい kurang cocok untuk situasi kerja formal."
+    },
+    {
+      "id": 84,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "台風で電車が止まりました。会社に何と連絡しますか。",
+      "options": [
+        "電車が嫌いです。",
+        "会社に行けるかどうか分かりません。",
+        "今日は休みたいです。",
+        "電車が止まったので、遅れます。"
+      ],
+      "answer_index": 3,
+      "explanation": "Melaporkan situasi & dampaknya secara jelas → 電車が止まったので、遅れます。Opsi terakhir kurang informatif (tidak menyatakan alasan dengan jelas)."
+    },
+    {
+      "id": 85,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "先生に分からないところを質問したいです。何と言いますか。",
+      "options": [
+        "もう一度教えてください、全部。",
+        "これは難しすぎます。",
+        "すみません、質問してもいいですか。",
+        "分かりません。"
+      ],
+      "answer_index": 2,
+      "explanation": "質問してもいいですか secara sopan meminta izin bertanya sebelum bertanya. Opsi lain hanya pernyataan kesulitan tanpa permintaan izin bertanya yang jelas."
+    },
+    {
+      "id": 86,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "お店で試着したいです。店員に何と言いますか。",
+      "options": [
+        "これを着てみます。",
+        "これはちょうどいいサイズです。",
+        "これを試着してもいいですか。",
+        "試着室はありますか、これを着ます。"
+      ],
+      "answer_index": 2,
+      "explanation": "試着してもいいですか=permintaan izin yang sopan sebelum mencoba pakaian. Opsi lain berupa pernyataan sepihak tanpa meminta izin terlebih dulu."
+    },
+    {
+      "id": 87,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "道具の使い方が分からないので、聞きます。何と言いますか。",
+      "options": [
+        "これはどうやって使いますか。",
+        "使い方が分かりません、それだけです。",
+        "誰か知っていますか、これの使い方。",
+        "これは難しい道具ですね。"
+      ],
+      "answer_index": 0,
+      "explanation": "どうやって使いますか=cara bertanya paling natural & langsung tentang cara pakai alat. Opsi lain terdengar seperti keluhan/komentar, bukan pertanyaan yang jelas ke lawan bicara."
+    },
+    {
+      "id": 88,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会社の飲み会に誘われました。行きたいです。何と言いますか。",
+      "options": [
+        "行けたら行きます。",
+        "考えておきます。",
+        "ぜひ、参加させてください。",
+        "興味はありますが、忙しいです。"
+      ],
+      "answer_index": 2,
+      "explanation": "ぜひ、参加させてください=respons paling jelas menunjukkan KEINGINAN kuat untuk ikut. Opsi lain terdengar ragu-ragu meskipun sebenarnya ingin ikut."
+    },
+    {
+      "id": 89,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "上司から仕事を頼まれました。引き受けます。何と言いますか。",
+      "options": [
+        "できると思います、たぶん。",
+        "はい、やってみますが、自信はありません。",
+        "はい、分かりました。",
+        "分かりましたが、時間がかかるかもしれません。"
+      ],
+      "answer_index": 2,
+      "explanation": "はい、分かりました。=respons paling jelas & sopan saat MENERIMA tugas. Opsi lain juga menerima tapi disertai keraguan yang tidak diminta di soal (soal menyatakan '引き受けます'=sudah pasti menerima)."
+    },
+    {
+      "id": 90,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "メールの返事が遅くなってしまいました。何と書きますか。",
+      "options": [
+        "すみません、忙しかったです。",
+        "返信が遅くなり、申し訳ございません。",
+        "遅くなりましたが、大丈夫です。",
+        "お待たせしました、もう終わりました。"
+      ],
+      "answer_index": 1,
+      "explanation": "返信が遅くなり、申し訳ございません=bentuk permintaan maaf formal standar dalam email bisnis. Opsi lain kurang formal atau tidak secara eksplisit meminta maaf."
+    },
+    {
+      "id": 91,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "同僚にお菓子をもらいました。何と言いますか。",
+      "options": [
+        "お菓子は好きじゃないですが、ありがとう。",
+        "わあ、ありがとうございます。いただきます。",
+        "これは高そうですね。",
+        "今はお腹がいっぱいです。"
+      ],
+      "answer_index": 1,
+      "explanation": "Respons menerima dengan senang & sopan → ありがとうございます、いただきます。Opsi lain terkesan menolak halus atau kurang sopan sebagai respons pertama."
+    },
+    {
+      "id": 92,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "エアコンが壊れています。管理会社に何と連絡しますか。",
+      "options": [
+        "エアコンが壊れているので、見てもらえますか。",
+        "エアコンが使えません、それだけです。",
+        "エアコンの調子が悪いようです。",
+        "エアコンを新しくしてください。"
+      ],
+      "answer_index": 0,
+      "explanation": "見てもらえますか secara jelas meminta TINDAKAN (diperiksa). Opsi lain hanya melaporkan kondisi tanpa permintaan tindakan yang jelas, atau langsung minta diganti (terlalu jauh sebelum diperiksa)."
+    },
+    {
+      "id": 93,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "忙しくて休憩する時間がありません。何と相談しますか。",
+      "options": [
+        "休憩の時間を決めてください。",
+        "忙しすぎます、助けてください。",
+        "休憩したいですが、無理です。",
+        "少し休憩してもいいですか。"
+      ],
+      "answer_index": 3,
+      "explanation": "休憩してもいいですか=permintaan izin sopan dan langsung. Opsi lain kurang spesifik sebagai permintaan izin istirahat sebentar."
+    },
+    {
+      "id": 94,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会社の説明会で、質問がある時、どう言いますか。",
+      "options": [
+        "後で個人的に聞いてもいいですか。",
+        "分からないことがあるので教えてください。",
+        "質問があります、答えてください。",
+        "一つ質問してもよろしいですか。"
+      ],
+      "answer_index": 3,
+      "explanation": "一つ質問してもよろしいですか=cara paling sopan & standar meminta izin bertanya di forum resmi. Opsi lain kurang sopan atau tidak sesuai konteks forum publik."
+    },
+    {
+      "id": 95,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "上司に書類を確認してほしいです。何と言いますか。",
+      "options": [
+        "書類はここにあります。",
+        "この書類を見てください、お願いします。",
+        "この書類を確認していただけますか。",
+        "確認は終わりましたか。"
+      ],
+      "answer_index": 2,
+      "explanation": "確認していただけますか=bentuk permintaan sopan (kego) ke atasan. 見てください terdengar lebih seperti perintah langsung, kurang formal untuk atasan."
+    },
+    {
+      "id": 96,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "エレベーターに一緒に乗る人に、何階か聞きたいです。",
+      "options": [
+        "何階ですか。",
+        "エレベーターは何階まで行きますか。",
+        "何階に行きますか、あなたは。",
+        "何階のボタンを押しましたか。"
+      ],
+      "answer_index": 0,
+      "explanation": "何階ですか=cara paling singkat & natural menanyakan lantai tujuan orang lain di lift. Opsi lain terlalu panjang/tidak natural untuk situasi singkat di lift."
+    },
+    {
+      "id": 97,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "お店で欲しい物が見つかりません。店員に何と聞きますか。",
+      "options": [
+        "〜はどこの店にありますか。",
+        "すみません、〜はありますか。",
+        "〜がここにないのはなぜですか。",
+        "〜を持ってきてください。"
+      ],
+      "answer_index": 1,
+      "explanation": "すみません、〜はありますか=cara sopan & standar menanyakan ketersediaan barang. Opsi lain terdengar menuduh toko atau langsung minta diambilkan tanpa konfirmasi ketersediaan."
+    },
+    {
+      "id": 98,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "会社の休憩室で、初めて会う人に自己紹介します。",
+      "options": [
+        "初めて見る顔ですね。",
+        "あなたは誰ですか。",
+        "こんにちは、私はここで働いています。",
+        "初めまして、〇〇と申します。"
+      ],
+      "answer_index": 3,
+      "explanation": "初めまして、〇〇と申します=bentuk perkenalan diri formal standar. Opsi lain kurang tepat sebagai kalimat PEMBUKA perkenalan diri (terdengar seperti pertanyaan/komentar ke lawan bicara, bukan memperkenalkan diri sendiri)."
+    },
+    {
+      "id": 99,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "忙しい同僚に、後で聞くと伝えたいです。",
+      "options": [
+        "今すぐ答えてください。",
+        "分かりました、大丈夫です。",
+        "もういいです。",
+        "後でまた聞きます。すみません。"
+      ],
+      "answer_index": 3,
+      "explanation": "後でまた聞きます、すみません=secara sopan menunda pertanyaan karena tahu lawan bicara sedang sibuk. Opsi terakhir 'もういいです' bisa terkesan ketus/menyerah, kurang natural."
+    },
+    {
+      "id": 100,
+      "section": 2,
+      "section_name": "会話と表現",
+      "section_name_id": "Percakapan & Ungkapan",
+      "subtype": "situational_expression",
+      "context_id": null,
+      "prompt": "上司にありがとうございましたと丁寧に伝えたいです。",
+      "options": [
+        "本当にありがとうございました。",
+        "ありがとう、感謝します。",
+        "お世話になりました、では失礼します。",
+        "どうも、助かりました。"
+      ],
+      "answer_index": 0,
+      "explanation": "本当にありがとうございました=ungkapan terima kasih formal yang jelas ke atasan. Opsi lain juga sopan, tapi kurang menonjolkan rasa terima kasih secara langsung sebagai respons utama."
+    },
+    {
+      "id": 101,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d1",
+      "prompt": "次の電車は何時に来ますか。",
+      "options": [
+        "10時15分",
+        "10時5分",
+        "10時20分",
+        "10時00分"
+      ],
+      "answer_index": 0,
+      "explanation": "B jelas bilang「次は10時15分です」, jadi kereta berikutnya datang jam 10:15."
+    },
+    {
+      "id": 102,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d1",
+      "prompt": "今、だいたい何時ですか。",
+      "options": [
+        "10時10分ごろ",
+        "11時ごろ",
+        "9時ごろ",
+        "10時15分ごろ"
+      ],
+      "answer_index": 0,
+      "explanation": "B menambahkan「あと5分ありますよ」setelah menyebut kereta datang jam 10:15, artinya sekarang kira-kira 5 menit sebelum itu, yaitu sekitar jam 10:10."
+    },
+    {
+      "id": 103,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d2",
+      "prompt": "会議は何時から始まりますか。",
+      "options": [
+        "10時",
+        "9時",
+        "10時半",
+        "9時半"
+      ],
+      "answer_index": 0,
+      "explanation": "B bilang rapat「10時からです」, jadi rapat dimulai jam 10:00. Waktu 9:30 yang disebut berikutnya bukan waktu mulai rapat, melainkan waktu berkumpul lebih awal."
+    },
+    {
+      "id": 104,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d2",
+      "prompt": "田中さんは会議室に何分前に着いていますか。",
+      "options": [
+        "30分前",
+        "10分前",
+        "5分前",
+        "1時間前"
+      ],
+      "answer_index": 0,
+      "explanation": "Rapat dimulai jam 10:00, tapi Tanaka diminta datang jam 9:30 untuk persiapan — selisihnya 30 menit sebelum rapat dimulai."
+    },
+    {
+      "id": 105,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d3",
+      "prompt": "今のところ、最大何人で予約しますか。",
+      "options": [
+        "5人",
+        "3人",
+        "4人",
+        "2人"
+      ],
+      "answer_index": 2,
+      "explanation": "A memesan「4人で」, jadi untuk saat ini pemesanan tetap dibuat untuk 4 orang meskipun ada ketidakpastian soal satu orang."
+    },
+    {
+      "id": 106,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d3",
+      "prompt": "この会話から分かることは何ですか。",
+      "options": [
+        "全員が必ず来る",
+        "人数が変わる可能性がある",
+        "予約はキャンセルされた",
+        "時間はまだ決まっていない"
+      ],
+      "answer_index": 1,
+      "explanation": "A menyebutkan「一人はまだ来られるか分からない」, artinya jumlah tamu yang benar-benar datang bisa berubah (mungkin jadi 3 orang), bukan berarti semua pasti datang atau pemesanan dibatalkan."
+    },
+    {
+      "id": 107,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d4",
+      "prompt": "荷物は今、どこに置きますか。",
+      "options": [
+        "床の上",
+        "テーブルの上",
+        "椅子の下",
+        "棚の中"
+      ],
+      "answer_index": 1,
+      "explanation": "B secara langsung mengarahkan「そのテーブルの上に置いてください」."
+    },
+    {
+      "id": 108,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d4",
+      "prompt": "Aさんは荷物をどうする必要がありますか。",
+      "options": [
+        "自分で運ぶ",
+        "持って帰る",
+        "テーブルに置くだけでいい",
+        "係の人を探す"
+      ],
+      "answer_index": 2,
+      "explanation": "B bilang「あとで係の者が運びます…自分で運ばなくて大丈夫ですよ」, artinya A cukup meletakkan barang di meja, tidak perlu membawanya sendiri lebih jauh."
+    },
+    {
+      "id": 109,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d5",
+      "prompt": "山田さんは今日、何をしますか。",
+      "options": [
+        "病院に行く",
+        "家で休む",
+        "会社に行く",
+        "旅行に行く"
+      ],
+      "answer_index": 1,
+      "explanation": "Yamada bilang「今日は家で休んで」, jadi hari ini dia beristirahat di rumah, baru besok masuk kerja."
+    },
+    {
+      "id": 110,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d5",
+      "prompt": "山田さんの症状について、正しいのはどれですか。",
+      "options": [
+        "熱があるが咳はない",
+        "全く良くなっていない",
+        "だいぶ良くなったが、まだ咳がある",
+        "完全に治った"
+      ],
+      "answer_index": 2,
+      "explanation": "Yamada bilang「だいぶよくなりました。でも、まだ少し咳が出る」— kondisinya sudah jauh membaik, tapi batuknya belum hilang sepenuhnya."
+    },
+    {
+      "id": 111,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d6",
+      "prompt": "機械を使い始める時、最初に何をしますか。",
+      "options": [
+        "青いボタンを押す",
+        "赤いボタンを押す",
+        "緑のボタンを押す",
+        "電源を切る"
+      ],
+      "answer_index": 1,
+      "explanation": "B menjelaskan urutannya「まず、この赤いボタンを押してください」, jadi langkah pertama adalah menekan tombol merah."
+    },
+    {
+      "id": 112,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d6",
+      "prompt": "緑のボタンはどんな時に使いますか。",
+      "options": [
+        "青いボタンの前",
+        "電源を切る時",
+        "使い始める時",
+        "赤いボタンの後すぐ"
+      ],
+      "answer_index": 1,
+      "explanation": "B bilang「緑のボタンは最後、電源を切る時だけ使いますよ」, jadi tombol hijau khusus dipakai saat mematikan mesin, bukan di awal."
+    },
+    {
+      "id": 113,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d7",
+      "prompt": "二人はいつ旅行に行くことにしましたか。",
+      "options": [
+        "来週の土曜日",
+        "今週の土曜日",
+        "再来週の土曜日",
+        "来月"
+      ],
+      "answer_index": 2,
+      "explanation": "Karena minggu depan sibuk, mereka sepakat pindah ke「再来週の土曜日」(hari Sabtu dua minggu lagi)."
+    },
+    {
+      "id": 114,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d7",
+      "prompt": "なぜ来週は旅行に行けませんか。",
+      "options": [
+        "Aさんの仕事が忙しいから",
+        "お金がないから",
+        "天気が悪いから",
+        "Bさんの仕事が忙しいから"
+      ],
+      "answer_index": 3,
+      "explanation": "B yang bilang「来週は仕事が忙しいので、再来週はどうですか」, jadi alasan penundaan adalah pekerjaan B yang sibuk minggu depan, bukan A."
+    },
+    {
+      "id": 115,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d8",
+      "prompt": "今日、コピーはどこでしますか。",
+      "options": [
+        "この部屋",
+        "コピーはできない",
+        "会議室",
+        "隣の部屋"
+      ],
+      "answer_index": 3,
+      "explanation": "B mengarahkan「隣の部屋のコピー機を使ってください」karena mesin fotokopi di ruangan ini rusak."
+    },
+    {
+      "id": 116,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d8",
+      "prompt": "いつまでこの部屋のコピー機が使えませんか。",
+      "options": [
+        "修理が終わるまで（明日以降）",
+        "もう直った",
+        "今日の午後まで",
+        "来週まで"
+      ],
+      "answer_index": 0,
+      "explanation": "B bilang perbaikan baru dilakukan「明日、会社の人が来るそうですが、それまでこの部屋のコピー機は使えません」, jadi mesin ini tidak bisa dipakai sampai perbaikan selesai (paling cepat besok)."
+    },
+    {
+      "id": 117,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d9",
+      "prompt": "デパートに行くまでの順番で正しいのはどれですか。",
+      "options": [
+        "コンビニの前で止まる",
+        "左に曲がる→まっすぐ行く",
+        "まっすぐ行く→二つ目の信号を右→コンビニの先",
+        "右に曲がる→まっすぐ行く→コンビニ"
+      ],
+      "answer_index": 2,
+      "explanation": "B menjelaskan urutan arah persis seperti ini:「まっすぐ行って、二つ目の信号を右に曲がって」, lalu「そこにコンビニがあるので、その先にデパートが見えます」."
+    },
+    {
+      "id": 118,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d9",
+      "prompt": "コンビニはデパートとどんな位置関係ですか。",
+      "options": [
+        "関係ない",
+        "デパートより先にある",
+        "デパートの手前にある",
+        "デパートの中にある"
+      ],
+      "answer_index": 2,
+      "explanation": "Karena disebutkan konbini muncul dulu, baru setelahnya (その先に) terlihat department store, artinya posisi konbini ada SEBELUM department store (di sisi yang lebih dekat)."
+    },
+    {
+      "id": 119,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d10",
+      "prompt": "田中さんが休みではない曜日はどれですか。",
+      "options": [
+        "月・水・金",
+        "火・木・土",
+        "水・金・日",
+        "火・水・木"
+      ],
+      "answer_index": 3,
+      "explanation": "Hari libur Tanaka adalah 月・金・土・日, jadi hari-hari yang BUKAN libur (dia bekerja) adalah 火・水・木."
+    },
+    {
+      "id": 120,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d10",
+      "prompt": "田中さんが働く日と時間の組み合わせで正しいのはどれですか。",
+      "options": [
+        "月曜午前、水曜午後",
+        "毎日午前だけ",
+        "火曜午前、木曜午前、水曜午後",
+        "火曜午後、木曜午後、水曜午前"
+      ],
+      "answer_index": 2,
+      "explanation": "A menyebutkan jadwal kerja Tanaka: 火曜日と木曜日の午前, ditambah 水曜日の午後 — sesuai kombinasi jawaban ini."
+    },
+    {
+      "id": 121,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d11",
+      "prompt": "お客様がタバコを吸いたい時、何階に行けばいいですか。",
+      "options": [
+        "2階",
+        "1階",
+        "3階",
+        "屋上"
+      ],
+      "answer_index": 2,
+      "explanation": "A mengarahkan「喫煙は3階の喫煙所でお願いします」, jadi tempat merokok ada di lantai 3."
+    },
+    {
+      "id": 122,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d11",
+      "prompt": "お客様は次にエレベーターでどうしますか。",
+      "options": [
+        "エレベーターに乗らない",
+        "3階で降りる",
+        "1階で降りる",
+        "階段を使う"
+      ],
+      "answer_index": 1,
+      "explanation": "A bilang「あちらです。3階でお降りください」, jadi tamu akan turun di lantai 3 saat naik lift."
+    },
+    {
+      "id": 123,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d12",
+      "prompt": "Aさんは今日、病院に行けますか。",
+      "options": [
+        "病院はすぐ近くにある",
+        "病院に行く必要はない",
+        "病院はどこも開いていない",
+        "いつもの病院は休みだが、別のクリニックには行ける"
+      ],
+      "answer_index": 3,
+      "explanation": "B bilang「あそこの病院は今日休みなので、駅前のクリニックに行ったほうがいい」— rumah sakit biasa tutup, tapi masih ada klinik lain yang bisa dikunjungi hari ini."
+    },
+    {
+      "id": 124,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d12",
+      "prompt": "駅前のクリニックまでどのくらいかかりますか。",
+      "options": [
+        "バスで30分",
+        "分からない",
+        "歩いて5分くらい",
+        "歩いて15分くらい"
+      ],
+      "answer_index": 2,
+      "explanation": "B menyebutkan langsung「歩いて5分くらいです」untuk jarak ke klinik depan stasiun."
+    },
+    {
+      "id": 125,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d13",
+      "prompt": "パスポート更新のために、Aさんが用意しなくてもいいものはどれですか。",
+      "options": [
+        "保険証",
+        "申請書",
+        "写真",
+        "今のパスポート"
+      ],
+      "answer_index": 0,
+      "explanation": "B menyebutkan yang perlu dibawa hanya 申請書、写真、今のパスポート (ditambah biaya) — kartu asuransi (保険証) tidak disebutkan sama sekali sebagai syarat."
+    },
+    {
+      "id": 126,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d13",
+      "prompt": "手数料の金額について、Bさんは何と言っていますか。",
+      "options": [
+        "必要ない",
+        "窓口で確認してほしい",
+        "今すぐ教えられる",
+        "無料である"
+      ],
+      "answer_index": 1,
+      "explanation": "B bilang「手数料もかかりますが、金額は窓口で確認してください」, artinya jumlah biaya harus dicek langsung di loket, bukan diberi tahu sekarang."
+    },
+    {
+      "id": 127,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d14",
+      "prompt": "荷物は今、どこにありますか。",
+      "options": [
+        "Aさんの家にある",
+        "配達会社が持ち帰った",
+        "なくなった",
+        "会社に届いた"
+      ],
+      "answer_index": 1,
+      "explanation": "A bilang「留守だったので持ち帰られました」, jadi paket dibawa kembali oleh pihak pengantar karena tidak ada orang di rumah."
+    },
+    {
+      "id": 128,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d14",
+      "prompt": "荷物がいつ届くか、確実に分かることは何ですか。",
+      "options": [
+        "もう届いた",
+        "二度と届かない",
+        "必ず今日届く",
+        "今日ではなく、明日になる可能性がある"
+      ],
+      "answer_index": 3,
+      "explanation": "B bilang「今日はもう遅いので、明日になるかもしれません」, jadi kemungkinan besar paket baru diantar ulang besok, bukan hari ini juga."
+    },
+    {
+      "id": 129,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d15",
+      "prompt": "朝礼は始業の何分前に始まりますか。",
+      "options": [
+        "20分前",
+        "10分前",
+        "5分前",
+        "始業と同時"
+      ],
+      "answer_index": 1,
+      "explanation": "A bilang「始業は9時なので、始業の10分前に集まってください」, jadi upacara pagi dimulai 10 menit sebelum jam kerja mulai."
+    },
+    {
+      "id": 130,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d15",
+      "prompt": "始業時間は何時ですか。",
+      "options": [
+        "9時",
+        "8時50分",
+        "9時10分",
+        "8時40分"
+      ],
+      "answer_index": 0,
+      "explanation": "A menyebutkan「始業は9時」secara langsung sebagai jam mulai kerja."
+    },
+    {
+      "id": 131,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d16",
+      "prompt": "この店で支払いに使えないのはどれですか。",
+      "options": [
+        "小銭",
+        "現金",
+        "クレジットカード",
+        "紙幣"
+      ],
+      "answer_index": 2,
+      "explanation": "B bilang「当店は現金のみです」, artinya kartu kredit TIDAK bisa dipakai di toko ini, hanya uang tunai yang diterima."
+    },
+    {
+      "id": 132,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d16",
+      "prompt": "お金が足りない時、Bさんの説明から分かることは何ですか。",
+      "options": [
+        "近くにATMはあるが、少し歩く必要がある",
+        "ATMはどこにもない",
+        "この店にATMがある",
+        "カードが使える店を紹介してくれる"
+      ],
+      "answer_index": 0,
+      "explanation": "B bilang「近くにATMがございますが、少し歩きます」— ATM memang ada di dekat sana, tapi perlu jalan kaki agak jauh untuk mencapainya."
+    },
+    {
+      "id": 133,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d17",
+      "prompt": "健康診断の前に飲んでもいいものは何ですか。",
+      "options": [
+        "水だけ",
+        "コーヒーだけ",
+        "何も飲んではいけない",
+        "何を飲んでもいい"
+      ],
+      "answer_index": 0,
+      "explanation": "B bilang「朝9時までは水以外、何も口にしないでください」, jadi hanya air putih yang boleh diminum sebelum pemeriksaan."
+    },
+    {
+      "id": 134,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d17",
+      "prompt": "健康診断は何時から始まりますか。",
+      "options": [
+        "10時",
+        "9時半",
+        "9時",
+        "8時半"
+      ],
+      "answer_index": 1,
+      "explanation": "B menyebutkan「診断は9時半からです」sebagai waktu mulai pemeriksaan kesehatan."
+    },
+    {
+      "id": 135,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d18",
+      "prompt": "今週、燃えるごみを出せる日はどれですか。",
+      "options": [
+        "月曜日だけ",
+        "土曜日",
+        "木曜日だけ",
+        "月曜日と木曜日"
+      ],
+      "answer_index": 0,
+      "explanation": "Biasanya sampah bakar dibuang Senin & Kamis, tapi minggu ini「今週の木曜日は祝日なので、燃えるごみの収集はお休み」, jadi minggu ini hanya bisa dibuang hari Senin saja."
+    },
+    {
+      "id": 136,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d18",
+      "prompt": "木曜日にごみが収集されないのはなぜですか。",
+      "options": [
+        "祝日だから",
+        "収集車が故障したから",
+        "雨だから",
+        "燃えないごみの日だから"
+      ],
+      "answer_index": 0,
+      "explanation": "B menjelaskan langsung alasannya「今週の木曜日は祝日なので」, jadi pengumpulan sampah libur karena hari itu adalah hari libur nasional, bukan karena alasan lain."
+    },
+    {
+      "id": 137,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d19",
+      "prompt": "全部で何部コピーが必要ですか。",
+      "options": [
+        "12部",
+        "10部",
+        "13部",
+        "11部"
+      ],
+      "answer_index": 2,
+      "explanation": "Peserta rapat 10 orang + tambahan jadi 12 部, ditambah 1 部 khusus untuk 部長 = total 13 部."
+    },
+    {
+      "id": 138,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d19",
+      "prompt": "なぜ会議の人数より多くコピーしますか。",
+      "options": [
+        "参加者が増える予定だから",
+        "全員が2部ずつ使うから",
+        "部長が数え間違えたから",
+        "予備として多めに用意するため"
+      ],
+      "answer_index": 3,
+      "explanation": "B minta jumlah lebih banyak (12部) dari jumlah peserta (10人) sebagai cadangan/lebihan, bukan karena jumlah peserta akan bertambah atau kesalahan hitung."
+    },
+    {
+      "id": 139,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d20",
+      "prompt": "間違って届いた商品について、Bさんは何と言っていますか。",
+      "options": [
+        "お金を払ってほしい",
+        "処分してもいい",
+        "返送してほしい",
+        "お店に持って行ってほしい"
+      ],
+      "answer_index": 1,
+      "explanation": "B bilang「間違えた商品はそのままお持ちください。処分していただいて構いません」, artinya barang yang salah boleh langsung dibuang oleh pelanggan, tidak perlu dikembalikan ke toko."
+    },
+    {
+      "id": 140,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d20",
+      "prompt": "この後、Aさんはどうなりますか。",
+      "options": [
+        "商品は届かない",
+        "返金される",
+        "注文がキャンセルされる",
+        "正しい商品が新しく送られてくる"
+      ],
+      "answer_index": 3,
+      "explanation": "B menjanjikan「すぐに正しい商品をお送りします」, jadi setelah ini barang yang benar akan dikirim ulang kepada A."
+    },
+    {
+      "id": 141,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d21",
+      "prompt": "休みの申請について、この後Bさんは何をしますか。",
+      "options": [
+        "休みを許可しない",
+        "他のスタッフに伝える",
+        "Aさんに理由を聞き続ける",
+        "何もしない"
+      ],
+      "answer_index": 1,
+      "explanation": "B menutup percakapan dengan「他のスタッフに伝えておきますね」, jadi langkah selanjutnya adalah menginformasikan izin cuti ini ke staf lain."
+    },
+    {
+      "id": 142,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d21",
+      "prompt": "Aさんが休みたい理由は何ですか。",
+      "options": [
+        "家族の用事",
+        "病気",
+        "引っ越し",
+        "旅行"
+      ],
+      "answer_index": 0,
+      "explanation": "A menyebutkan alasannya secara langsung「家族の用事があります」."
+    },
+    {
+      "id": 143,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d22",
+      "prompt": "機械が動かなかった本当の理由は何ですか。",
+      "options": [
+        "機械が壊れていた",
+        "部品が足りなかった",
+        "使い方が間違っていた",
+        "電源が入っていなかった"
+      ],
+      "answer_index": 3,
+      "explanation": "Setelah ditanya B, A sadar「あ、入っていませんでした」— ternyata mesin tidak menyala karena tombol power belum ditekan, bukan karena rusak."
+    },
+    {
+      "id": 144,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d22",
+      "prompt": "電源を入れた後、次に何をしますか。",
+      "options": [
+        "緑のランプがつくのを待つ",
+        "すぐにボタンを押す",
+        "説明書を読む",
+        "もう一度電源を切る"
+      ],
+      "answer_index": 0,
+      "explanation": "B mengarahkan langkah selanjutnya「まず電源を入れて、それから緑のランプがつくのを待ってください」."
+    },
+    {
+      "id": 145,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d23",
+      "prompt": "新しい鍵をもらうために、Aさんが持って行くべきものは何ですか。",
+      "options": [
+        "お金だけ",
+        "古い鍵",
+        "何もいらない",
+        "身分証明書"
+      ],
+      "answer_index": 3,
+      "explanation": "B bilang「身分証明書が必要なので、持って行ってくださいね」, jadi yang wajib dibawa adalah kartu identitas."
+    },
+    {
+      "id": 146,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d23",
+      "prompt": "Aさんはどこへ行けばいいですか。",
+      "options": [
+        "受付",
+        "総務課",
+        "人事課",
+        "警察"
+      ],
+      "answer_index": 1,
+      "explanation": "B mengarahkan「総務課に行って、新しい鍵を作ってもらってください」."
+    },
+    {
+      "id": 147,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d24",
+      "prompt": "研修に持って来なくていいものはどれですか。",
+      "options": [
+        "筆記用具",
+        "昼食",
+        "テキスト",
+        "会社のパソコン"
+      ],
+      "answer_index": 3,
+      "explanation": "B bilang「会社のパソコンは研修室に用意してあるので、持って来なくて大丈夫です」, jadi laptop kantor TIDAK perlu dibawa sendiri, berbeda dengan alat tulis, teks, dan bekal makan siang yang harus disiapkan sendiri."
+    },
+    {
+      "id": 148,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d24",
+      "prompt": "パソコンについて、正しいのはどれですか。",
+      "options": [
+        "各自持参する",
+        "会社が貸してくれない",
+        "使わない",
+        "研修室に用意されている"
+      ],
+      "answer_index": 3,
+      "explanation": "Sesuai penjelasan B, komputer perusahaan「研修室に用意してある」— sudah disediakan di ruang pelatihan, peserta tidak perlu membawa sendiri."
+    },
+    {
+      "id": 149,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d25",
+      "prompt": "休みの2日間、給料はどうなりますか。",
+      "options": [
+        "半分だけ出る",
+        "分からない",
+        "いつも通り給料が出る",
+        "給料が出ない"
+      ],
+      "answer_index": 2,
+      "explanation": "A menegaskan「その2日間も給料は出ますので、ご安心ください」, jadi gaji tetap dibayar seperti biasa meski pabrik libur 2 hari."
+    },
+    {
+      "id": 150,
+      "section": 3,
+      "section_name": "聴解",
+      "section_name_id": "Menyimak",
+      "subtype": "listening_dialogue",
+      "context_id": "d25",
+      "prompt": "この話から、将来起こるかもしれないことは何ですか。",
+      "options": [
+        "給料が下がること",
+        "休みが増えること",
+        "工場が閉まること",
+        "別の日に残業を頼まれること"
+      ],
+      "answer_index": 3,
+      "explanation": "A menambahkan「代わりに別の日に少し残業をお願いするかもしれません」sebagai kemungkinan yang bisa terjadi ke depannya, bukan hal-hal lain seperti gaji turun atau pabrik tutup."
+    },
+    {
+      "id": 151,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p1",
+      "prompt": "いつ水が使えませんか。",
+      "options": [
+        "10月12日の一日中",
+        "10月13日の午前9時から午後1時",
+        "10月13日の一日中",
+        "10月12日の午前中だけ"
+      ],
+      "answer_index": 1,
+      "explanation": "Pengumuman menyebutkan langsung「月曜日（10月13日）…午前9時から午後1時まで水が使えません」."
+    },
+    {
+      "id": 152,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p1",
+      "prompt": "なぜ水が使えませんか。",
+      "options": [
+        "停電のため",
+        "水道工事のため",
+        "台風のため",
+        "掃除のため"
+      ],
+      "answer_index": 1,
+      "explanation": "Alasan yang tertulis adalah「ビルの水道工事のため」, bukan pemadaman listrik, topan, atau pembersihan."
+    },
+    {
+      "id": 153,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p1",
+      "prompt": "工事はいつ終わる予定でしたか。",
+      "options": [
+        "14日",
+        "13日",
+        "12日",
+        "10日"
+      ],
+      "answer_index": 2,
+      "explanation": "Teks menyebutkan「工事は12日までに終わる予定でしたが、遅れてしまいました」, artinya jadwal semula selesai adalah tanggal 12."
+    },
+    {
+      "id": 154,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p1",
+      "prompt": "このお知らせで一番伝えたいことは何ですか。",
+      "options": [
+        "水が使えない時間があること",
+        "来月も同じ工事があること",
+        "トイレの場所が変わること",
+        "水道料金が上がること"
+      ],
+      "answer_index": 0,
+      "explanation": "Inti pengumuman adalah pemberitahuan waktu tertentu di mana air tidak bisa dipakai, disertai permintaan maaf atas keterlambatan — bukan tentang pengumuman rutin bulanan, perubahan lokasi toilet, atau kenaikan tarif."
+    },
+    {
+      "id": 155,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p1",
+      "prompt": "この文章のタイプは何ですか。",
+      "options": [
+        "広告",
+        "レシピ",
+        "お知らせ",
+        "手紙"
+      ],
+      "answer_index": 2,
+      "explanation": "Format teks (judul「お知らせ」, informasi jadwal, permintaan maaf resmi) adalah ciri khas sebuah pengumuman (お知らせ), bukan iklan, resep, atau surat pribadi."
+    },
+    {
+      "id": 156,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p2",
+      "prompt": "リナさんは田中さんに何をしてもらいましたか。",
+      "options": [
+        "料理を教えてもらった",
+        "仕事を紹介してもらった",
+        "引っ越しを手伝ってもらった",
+        "お金を貸してもらった"
+      ],
+      "answer_index": 2,
+      "explanation": "Rina menulis「先日は、引っ越しを手伝ってくださり、ありがとうございました」, jadi Tanaka membantunya pindahan."
+    },
+    {
+      "id": 157,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p2",
+      "prompt": "リナさんは田中さんを何に誘っていますか。",
+      "options": [
+        "映画",
+        "パーティー",
+        "食事",
+        "旅行"
+      ],
+      "answer_index": 2,
+      "explanation": "Rina mengajak「ご飯をご馳走したい」, yaitu mengajak makan sebagai ucapan terima kasih, bukan menonton film, pesta, atau liburan."
+    },
+    {
+      "id": 158,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p2",
+      "prompt": "いつ誘っていますか。",
+      "options": [
+        "来月",
+        "来週の日曜日",
+        "今日の夜",
+        "今週の土曜日の夜"
+      ],
+      "answer_index": 3,
+      "explanation": "Rina menyebutkan secara spesifik「今週の土曜日の夜、空いていますか」."
+    },
+    {
+      "id": 159,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p2",
+      "prompt": "もし土曜日の都合が悪かったら、どうすると言っていますか。",
+      "options": [
+        "電話で話す",
+        "別の日でもいい",
+        "諦める",
+        "また今度誘う"
+      ],
+      "answer_index": 1,
+      "explanation": "Rina menambahkan「もし都合が悪ければ、別の日でも大丈夫です」, jadi jika Sabtu tidak cocok, hari lain juga tidak masalah."
+    },
+    {
+      "id": 160,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p2",
+      "prompt": "この文章は何ですか。",
+      "options": [
+        "レシピ",
+        "新聞記事",
+        "手紙（メール）",
+        "お知らせ"
+      ],
+      "answer_index": 2,
+      "explanation": "Teks ini ditujukan langsung ke seseorang (田中さんへ) dan ditutup dengan nama pengirim (リナより), ciri khas surat/pesan pribadi, bukan berita atau pengumuman umum."
+    },
+    {
+      "id": 161,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p3",
+      "prompt": "特売はいつからいつまでですか。",
+      "options": [
+        "金曜日から日曜日",
+        "土曜日だけ",
+        "毎日",
+        "月曜日から金曜日"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan「今週金曜日から日曜日まで、野菜と果物が全部20％引き」."
+    },
+    {
+      "id": 162,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p3",
+      "prompt": "りんごは1個いくらですか。",
+      "options": [
+        "50円",
+        "120円",
+        "80円",
+        "100円"
+      ],
+      "answer_index": 2,
+      "explanation": "Disebutkan langsung「りんごは1個80円」."
+    },
+    {
+      "id": 163,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p3",
+      "prompt": "たまねぎ3個でいくらですか。",
+      "options": [
+        "150円",
+        "80円",
+        "100円",
+        "300円"
+      ],
+      "answer_index": 2,
+      "explanation": "Disebutkan langsung「たまねぎは3個で100円」."
+    },
+    {
+      "id": 164,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p3",
+      "prompt": "お米が安くなるのはいつですか。",
+      "options": [
+        "日曜日だけ",
+        "特売期間中ずっと",
+        "金曜日だけ",
+        "土曜日だけ"
+      ],
+      "answer_index": 3,
+      "explanation": "Teks menambahkan「土曜日だけ、お米も10％引きになります」, jadi diskon beras khusus hari Sabtu saja, berbeda dari diskon sayur/buah yang berlaku 3 hari."
+    },
+    {
+      "id": 165,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p3",
+      "prompt": "この特売について正しいのはどれですか。",
+      "options": [
+        "野菜と果物は10%引き、お米は20%引き",
+        "お米だけが特売の対象",
+        "全ての商品が20%引き",
+        "野菜と果物は20%引き、お米は土曜日だけ10%引き"
+      ],
+      "answer_index": 3,
+      "explanation": "Menggabungkan dua info di atas: sayur & buah diskon 20% sepanjang periode Jumat-Minggu, sedangkan beras hanya diskon 10% khusus hari Sabtu."
+    },
+    {
+      "id": 166,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p4",
+      "prompt": "いつから営業時間が変わりますか。",
+      "options": [
+        "今月1日",
+        "来週",
+        "来月1日",
+        "来年"
+      ],
+      "answer_index": 2,
+      "explanation": "Teks menyebutkan「来月1日より、社員食堂の営業時間が変わります」."
+    },
+    {
+      "id": 167,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p4",
+      "prompt": "新しい営業時間は何時から何時までですか。",
+      "options": [
+        "12時から15時",
+        "11時から14時",
+        "11時半から13時半",
+        "10時から13時"
+      ],
+      "answer_index": 2,
+      "explanation": "Teks menyebutkan jam operasional baru「11時半から13時半まで」."
+    },
+    {
+      "id": 168,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p4",
+      "prompt": "新しい営業時間は今までより短いですか、長いですか。",
+      "options": [
+        "長い",
+        "同じ",
+        "短い",
+        "分からない"
+      ],
+      "answer_index": 2,
+      "explanation": "Jam lama adalah 11時〜14時 (3 jam), sedangkan jam baru 11時半〜13時半 (2 jam), jadi waktu operasionalnya menjadi LEBIH PENDEK."
+    },
+    {
+      "id": 169,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p4",
+      "prompt": "なぜ工事をしますか。",
+      "options": [
+        "値段を上げるため",
+        "食堂を閉めるため",
+        "料理を変えるため",
+        "座席数を増やすため"
+      ],
+      "answer_index": 3,
+      "explanation": "Teks menyebutkan alasan konstruksi「食堂内の座席数を増やすため」, bukan untuk menaikkan harga, menutup kantin, atau mengganti menu."
+    },
+    {
+      "id": 170,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p4",
+      "prompt": "この文章は誰に向けて書かれていますか。",
+      "options": [
+        "お客様",
+        "近所の住民",
+        "会社の社員",
+        "学生"
+      ],
+      "answer_index": 2,
+      "explanation": "Judul teks「会社の皆様へ」menunjukkan pengumuman ini ditujukan untuk seluruh karyawan perusahaan, bukan untuk pelanggan, warga sekitar, atau pelajar."
+    },
+    {
+      "id": 171,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p5",
+      "prompt": "道に迷った時、どこで聞くといいと書いてありますか。",
+      "options": [
+        "病院",
+        "コンビニや交番",
+        "学校",
+        "図書館"
+      ],
+      "answer_index": 1,
+      "explanation": "Poin pertama daftar menyebutkan「近くのコンビニや交番で道を聞いてください」."
+    },
+    {
+      "id": 172,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p5",
+      "prompt": "何を使うと便利だと書いてありますか。",
+      "options": [
+        "友達への電話だけ",
+        "地図アプリ",
+        "紙の地図だけ",
+        "何も使わない"
+      ],
+      "answer_index": 1,
+      "explanation": "Poin kedua menyebutkan「スマートフォンの地図アプリを使うと便利です」."
+    },
+    {
+      "id": 173,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p5",
+      "prompt": "駅員に何を聞くことができますか。",
+      "options": [
+        "時間割",
+        "値段",
+        "天気",
+        "道"
+      ],
+      "answer_index": 3,
+      "explanation": "Poin ketiga menyebutkan bahwa nama stasiun yang diingat bisa dipakai untuk「駅員に聞くこともできます」, yaitu bertanya arah/jalan ke petugas stasiun."
+    },
+    {
+      "id": 174,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p5",
+      "prompt": "迷った場所の写真を撮る理由は何ですか。",
+      "options": [
+        "SNSに載せるため",
+        "きれいだから",
+        "記念になるから",
+        "後で説明しやすいから"
+      ],
+      "answer_index": 3,
+      "explanation": "Poin keempat menjelaskan alasannya secara langsung「後で説明しやすいです」, bukan untuk diunggah ke media sosial, keindahan foto, atau kenangan."
+    },
+    {
+      "id": 175,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p5",
+      "prompt": "駅の名前を覚えておくと、何ができると書いてありますか。",
+      "options": [
+        "絶対に迷わなくなる",
+        "駅員に道を聞くことができる",
+        "地図アプリがいらなくなる",
+        "無料で電車に乗れる"
+      ],
+      "answer_index": 1,
+      "explanation": "Poin ketiga menyebutkan mengingat nama stasiun berguna agar bisa「駅員に聞くこともできます」, yaitu bertanya arah kepada petugas stasiun."
+    },
+    {
+      "id": 176,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p6",
+      "prompt": "時給はいくらですか。",
+      "options": [
+        "1,500円",
+        "1,375円",
+        "1,000円",
+        "1,100円"
+      ],
+      "answer_index": 3,
+      "explanation": "Iklan menyebutkan「時給：1,100円」sebagai upah dasar per jam."
+    },
+    {
+      "id": 177,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p6",
+      "prompt": "22時以降の時給はいくらですか。",
+      "options": [
+        "1,200円",
+        "1,375円",
+        "1,000円",
+        "1,100円"
+      ],
+      "answer_index": 1,
+      "explanation": "Iklan menyebutkan tarif khusus「22時以降は1,375円」."
+    },
+    {
+      "id": 178,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p6",
+      "prompt": "最低、週に何日から働けますか。",
+      "options": [
+        "2日",
+        "3日",
+        "1日",
+        "5日"
+      ],
+      "answer_index": 0,
+      "explanation": "Iklan menyebutkan syarat minimal「週2日から」."
+    },
+    {
+      "id": 179,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p6",
+      "prompt": "未経験者は働けますか。",
+      "options": [
+        "経験3年以上必要",
+        "働ける（大歓迎）",
+        "働けない",
+        "分からない"
+      ],
+      "answer_index": 1,
+      "explanation": "Iklan secara eksplisit menyebutkan「未経験者も大歓迎です」, jadi pelamar tanpa pengalaman justru sangat disambut."
+    },
+    {
+      "id": 180,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p6",
+      "prompt": "応募したい人はまず何をしますか。",
+      "options": [
+        "履歴書を送る",
+        "店に直接行く",
+        "メールを送る",
+        "電話で問い合わせる"
+      ],
+      "answer_index": 3,
+      "explanation": "Iklan mengarahkan langkah pertama「まずはお電話でお問い合わせください」, bukan mengirim CV, datang langsung, atau mengirim email."
+    },
+    {
+      "id": 181,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p7",
+      "prompt": "エレベーターはいつ使えませんか。",
+      "options": [
+        "8月21日",
+        "毎週木曜日",
+        "8月20日の午前10時から正午",
+        "8月20日の一日中"
+      ],
+      "answer_index": 2,
+      "explanation": "Pengumuman menyebutkan「日時：8月20日（木）午前10時〜正午」."
+    },
+    {
+      "id": 182,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p7",
+      "prompt": "その時間、何を使えばいいですか。",
+      "options": [
+        "隣のビルのエレベーター",
+        "階段",
+        "エスカレーター",
+        "何も使わない"
+      ],
+      "answer_index": 1,
+      "explanation": "Pengumuman mengarahkan「この間、階段をご利用ください」selama lift tidak bisa dipakai."
+    },
+    {
+      "id": 183,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p7",
+      "prompt": "これは誰が出したお知らせですか。",
+      "options": [
+        "住民",
+        "エレベーター会社",
+        "警察",
+        "管理会社"
+      ],
+      "answer_index": 3,
+      "explanation": "Nama pengirim tertulis jelas di akhir teks「管理会社」, bukan penghuni, perusahaan lift, atau polisi."
+    },
+    {
+      "id": 184,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p7",
+      "prompt": "エレベーターが使えない理由は何ですか。",
+      "options": [
+        "点検のため",
+        "掃除のため",
+        "壊れたため",
+        "電気が止まるため"
+      ],
+      "answer_index": 0,
+      "explanation": "Judul pengumuman sendiri sudah menyebutkan「エレベーター点検のお知らせ」, jadi alasannya adalah pemeriksaan rutin, bukan kerusakan atau pemadaman listrik."
+    },
+    {
+      "id": 185,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p7",
+      "prompt": "この掲示は何を伝えるためのものですか。",
+      "options": [
+        "引っ越しの案内",
+        "エレベーターが一時的に使えないこと",
+        "料金の変更",
+        "新しいエレベーターの案内"
+      ],
+      "answer_index": 1,
+      "explanation": "Inti pengumuman ini adalah memberi tahu bahwa lift tidak bisa dipakai untuk sementara pada waktu tertentu karena pemeriksaan, bukan tentang pindahan, perubahan tarif, atau lift baru."
+    },
+    {
+      "id": 186,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p8",
+      "prompt": "燃えるゴミはいつ出しますか。",
+      "options": [
+        "水曜日",
+        "火・金曜日",
+        "毎日",
+        "月・木曜日"
+      ],
+      "answer_index": 3,
+      "explanation": "Teks menyebutkan「燃えるゴミ：月・木曜日」."
+    },
+    {
+      "id": 187,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p8",
+      "prompt": "燃えるゴミは何時までに出しますか。",
+      "options": [
+        "朝8時まで",
+        "正午まで",
+        "決まっていない",
+        "夜8時まで"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan batas waktu「朝8時までに出してください」."
+    },
+    {
+      "id": 188,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p8",
+      "prompt": "資源ゴミは何曜日ですか。",
+      "options": [
+        "火曜日",
+        "水曜日",
+        "木曜日",
+        "月曜日"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan「資源ゴミ（缶・びん・ペットボトル）：火曜日」."
+    },
+    {
+      "id": 189,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p8",
+      "prompt": "大きいゴミを出す時、まず何をしますか。",
+      "options": [
+        "市役所に連絡する",
+        "隣の家に相談する",
+        "指定の日を待つだけ",
+        "そのまま出す"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan syarat「大きいゴミ（家具など）は事前に市役所に連絡が必要です」, jadi langkah pertama adalah menghubungi balai kota terlebih dahulu, bukan langsung membuangnya."
+    },
+    {
+      "id": 190,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p8",
+      "prompt": "指定の袋以外のゴミはどうなりますか。",
+      "options": [
+        "回収されない",
+        "罰金を払えば回収される",
+        "そのまま回収される",
+        "翌日回収される"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan「指定の袋以外は回収されません」, jadi sampah yang tidak memakai kantong khusus tidak akan diambil sama sekali (bukan tetap diambil dengan denda atau ditunda)."
+    },
+    {
+      "id": 191,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p9",
+      "prompt": "健康診断はいつ受けられますか。",
+      "options": [
+        "9月5日〜9月9日",
+        "9月9日だけ",
+        "9月1日〜9月5日",
+        "10月中"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan periode pemeriksaan「9月5日〜9月9日の間」."
+    },
+    {
+      "id": 192,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p9",
+      "prompt": "予約は誰がしますか。",
+      "options": [
+        "病院が自動的に予約する",
+        "会社の総務課",
+        "予約は不要",
+        "各自（社員自身）"
+      ],
+      "answer_index": 3,
+      "explanation": "Teks menyebutkan「予約は各自で行ってください」, jadi setiap karyawan wajib membuat janji sendiri, bukan diatur oleh perusahaan atau rumah sakit."
+    },
+    {
+      "id": 193,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p9",
+      "prompt": "結果はいつ届きますか。",
+      "options": [
+        "約2週間後",
+        "当日",
+        "翌日",
+        "1か月後"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan「診断結果は約2週間後に会社に届きます」."
+    },
+    {
+      "id": 194,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p9",
+      "prompt": "当日、朝食は食べてもいいですか。",
+      "options": [
+        "食べてはいけない",
+        "少しなら食べてもいい",
+        "食べてもいい",
+        "書いていない"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks meminta「当日は朝食を取らずにお越しください」, jadi sarapan TIDAK boleh dimakan sebelum pemeriksaan."
+    },
+    {
+      "id": 195,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p9",
+      "prompt": "当日、水を飲んでもいいですか。",
+      "options": [
+        "書いていない",
+        "飲んでもいい",
+        "飲んではいけない",
+        "午前中だけだめ"
+      ],
+      "answer_index": 1,
+      "explanation": "Teks menambahkan「水はお飲みいただいて構いません」, jadi khusus air putih tetap diperbolehkan meskipun tidak boleh sarapan."
+    },
+    {
+      "id": 196,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p10",
+      "prompt": "なぜバスが運休しますか。",
+      "options": [
+        "事故のため",
+        "台風の影響",
+        "祭りのため",
+        "工事のため"
+      ],
+      "answer_index": 1,
+      "explanation": "Teks menyebutkan penyebabnya langsung「台風の影響により」, bukan kecelakaan, festival, atau konstruksi."
+    },
+    {
+      "id": 197,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p10",
+      "prompt": "運休する路線はいくつありますか。",
+      "options": [
+        "4つ",
+        "3つ",
+        "1つ",
+        "2つ"
+      ],
+      "answer_index": 1,
+      "explanation": "Teks menyebutkan tiga rute yang berhenti beroperasi「3番、7番、12番」."
+    },
+    {
+      "id": 198,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p10",
+      "prompt": "3番、7番、12番のバスは何時から運休ですか。",
+      "options": [
+        "夜だけ",
+        "午前中だけ",
+        "午後だけ",
+        "終日（一日中）"
+      ],
+      "answer_index": 3,
+      "explanation": "Teks menyebutkan bahwa rute-rute tersebut「終日運休となります」, artinya berhenti beroperasi sepanjang hari, bukan hanya pagi/siang/malam saja."
+    },
+    {
+      "id": 199,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p10",
+      "prompt": "他の路線はどうなりますか。",
+      "options": [
+        "通常通り運行するが遅れることもある",
+        "本数が増える",
+        "全て運休する",
+        "無料になる"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks menyebutkan「他の路線は通常通り運行しますが、遅れる場合があります」, jadi rute lain tetap jalan seperti biasa namun berpotensi terlambat."
+    },
+    {
+      "id": 200,
+      "section": 4,
+      "section_name": "読解",
+      "section_name_id": "Membaca",
+      "subtype": "reading_passage",
+      "context_id": "p10",
+      "prompt": "最新情報はどこで確認できますか。",
+      "options": [
+        "ホームページ",
+        "新聞",
+        "電話だけ",
+        "テレビ"
+      ],
+      "answer_index": 0,
+      "explanation": "Teks mengarahkan「最新の情報はホームページでご確認ください」."
+    }
+  ],
+  "bonus": [
+    {
+      "id": "B1",
+      "prompt": "宿題は＿＿＿終わっていません。まだ半分しか終わっていません。",
+      "options": [
+        "たった",
+        "もう",
+        "もっと",
+        "まだ"
+      ],
+      "answer_index": 3,
+      "explanation": "「まだ〜ていません」= belum selesai (proses berlanjut). 「もう」dipakai untuk hal yang SUDAH selesai — kalau salah pilih もう, artinya jadi bertolak belakang dengan kalimat kedua yang bilang 'baru setengah'."
+    },
+    {
+      "id": "B2",
+      "prompt": "彼は忙しい＿＿＿、私を手伝ってくれました。",
+      "options": [
+        "のに",
+        "けど、それで",
+        "ので",
+        "から"
+      ],
+      "answer_index": 0,
+      "explanation": "「のに」mengandung nuansa rasa terkejut/berterima kasih karena hal yang tidak terduga (sibuk tapi tetap membantu). 「ので／から」justru menyatakan alasan logis (karena sibuk → maka membantu), yang artinya jadi terbalik/tidak masuk akal di sini."
+    },
+    {
+      "id": "B3",
+      "prompt": "会議が始まった＿＿＿、部長が入ってきました。",
+      "options": [
+        "しか",
+        "ばかり",
+        "まで",
+        "だけ"
+      ],
+      "answer_index": 1,
+      "explanation": "「〜たばかり」= baru saja terjadi (rapat baru saja mulai). 「だけ／しか」berarti 'hanya', tidak cocok secara makna sama sekali di sini — walau bunyi mirip 'ばかり' vs 'だけ', nuansanya sangat berbeda."
+    },
+    {
+      "id": "B4",
+      "prompt": "空が真っ黒です。今にも雨が降り＿＿＿。",
+      "options": [
+        "ようです",
+        "そうです",
+        "らしいです",
+        "みたいでした"
+      ],
+      "answer_index": 1,
+      "explanation": "「〜そうだ」(bentuk masu-stem + そう) dipakai untuk perkiraan berdasarkan apa yang TERLIHAT langsung saat ini (langit hitam → sepertinya akan hujan). 「らしい」dipakai kalau informasi berasal dari sumber lain (dengar/baca), bukan pengamatan langsung — jadi kurang pas di sini walau sama-sama berarti 'sepertinya'."
+    },
+    {
+      "id": "B5",
+      "prompt": "来月、国へ帰る＿＿＿です。もう航空券も買いました。",
+      "options": [
+        "そう",
+        "はず",
+        "べき",
+        "つもり"
+      ],
+      "answer_index": 3,
+      "explanation": "「〜つもり」= niat/rencana milik pembicara sendiri (dan sudah beli tiket, jadi memang rencana pasti). 「はず」dipakai untuk perkiraan berdasarkan alasan logis tentang ORANG LAIN atau situasi, bukan niat sendiri — jadi janggal kalau dipakai untuk rencana sendiri."
+    },
+    {
+      "id": "B6",
+      "prompt": "今、資料を＿＿＿ところです。もう少しで終わります。",
+      "options": [
+        "作っている",
+        "作った",
+        "作ります",
+        "作る"
+      ],
+      "answer_index": 0,
+      "explanation": "「〜ているところ」= sedang dalam proses melakukan sesuatu SEKARANG. 「作ったところ」berarti baru SAJA selesai membuat (sudah selesai), yang bertentangan dengan 'もう少しで終わります (sebentar lagi selesai)' yang berarti BELUM selesai."
+    },
+    {
+      "id": "B7",
+      "prompt": "（Bさんは今、Aさんが持っているノートについて話しています。Bさんはそのノート\nから離れた場所にいます。）\nBさん：「Aさんが持っている＿＿＿ノート、いいですね。」",
+      "options": [
+        "この",
+        "どの",
+        "その",
+        "あの"
+      ],
+      "answer_index": 2,
+      "explanation": "「そ」系は benda dekat dengan lawan bicara (dalam hal ini Aさん) tapi jauh dari pembicara (Bさん). Notebook dipegang oleh Aさん = tidak dekat dengan Bさん → 「その」yang tepat. 「この」dipakai untuk benda dekat pembicara sendiri, 「あの」untuk benda yang jauh dari pembicara MAUPUN lawan bicara, jadi keduanya tidak cocok di sini."
+    },
+    {
+      "id": "B8",
+      "prompt": "財布を忘れて＿＿＿、お金が払えませんでした。",
+      "options": [
+        "います",
+        "しまい",
+        "しまって",
+        "みて"
+      ],
+      "answer_index": 2,
+      "explanation": "「〜てしまって」(bentuk te dari 〜てしまう + て, menyambung ke klausa berikutnya) mengekspresikan penyesalan atas kejadian yang tidak diinginkan (lupa dompet), lalu menyambung ke akibatnya (tidak bisa bayar). Bentuk 「しまい」saja (masu-stem) kurang natural untuk menyambung dua klausa di sini; yang benar adalah bentuk te-nya, yaitu 「しまって」."
+    }
+  ]
+}
