@@ -343,12 +343,12 @@ function ContextBoxDynamic({ contextObj, count }) {
             </button>
           </div>
           {showTranscript && (
-            <div className="context-text transcript">{contextObj.text}</div>
+            <div className="context-text transcript" translate="no">{contextObj.text}</div>
           )}
         </>
       ) : (
         <>
-          <div className="context-text">{contextObj.text}</div>
+          <div className="context-text" translate="no">{contextObj.text}</div>
         </>
       )}
     </div>
@@ -372,7 +372,7 @@ function QuestionItem({ q, selection, submission, onSelect, displayIndex }) {
           {q.instruction && (
             <div className="q-instruction">{q.instruction}</div>
           )}
-          <div className="q-sentence">
+          <div className="q-sentence" translate="no">
             {q.sentence_before ? (
               <span className="q-sent-before">{q.sentence_before}</span>
             ) : null}
@@ -383,7 +383,7 @@ function QuestionItem({ q, selection, submission, onSelect, displayIndex }) {
           </div>
         </div>
       ) : (
-        <p className="q-prompt">{q.prompt}</p>
+        <p className="q-prompt" translate="no">{q.prompt}</p>
       )}
 
       <div className="options" role="radiogroup" aria-label={`Pilihan soal ${displayIndex}`}>
@@ -412,7 +412,7 @@ function QuestionItem({ q, selection, submission, onSelect, displayIndex }) {
               role="radio"
             >
               <span className="let">{letter}</span>
-              <span className="opt-text">{opt}</span>
+              <span className="opt-text" translate="no">{opt}</span>
               <span className="tick" aria-hidden="true" />
             </button>
           );
