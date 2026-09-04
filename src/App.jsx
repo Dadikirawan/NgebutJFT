@@ -331,7 +331,7 @@ export default function App() {
           </div>
         </div>
       </header>
-      <main className="app-main">{page}</main>
+      <main className="app-main" translate="no">{page}</main>
       <footer className="page-footer page-footer-copyright" aria-label="Hak cipta">
         <span>© 2026 Dadik Irawan. All rights reserved.</span>
       </footer>

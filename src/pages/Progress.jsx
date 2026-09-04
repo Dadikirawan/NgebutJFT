@@ -80,8 +80,8 @@ export default function Progress({
         <h3>Progress per Bagian & Bonus</h3>
         {rows.map(({ section, data }) => (
           <div className="breakdown-row" key={section.id}>
-            <div className="lbl">
-              Bagian {section.id} — {section.name}
+            <div className="lbl" translate="no">
+              Bagian {section.id} — <span translate="no">{section.name}</span>
               <small>{section.name_id} • {section.range ? `No. ${section.range[0]}–${section.range[1]}` : ''}</small>
             </div>
             <div>
@@ -97,8 +97,8 @@ export default function Progress({
           </div>
         ))}
         <div className="breakdown-row">
-          <div className="lbl">
-            Bonus — ニュアンス
+          <div className="lbl" translate="no">
+            Bonus — <span translate="no">ニュアンス</span>
             <small>Soal tambahan nuansa kalimat</small>
           </div>
           <div>

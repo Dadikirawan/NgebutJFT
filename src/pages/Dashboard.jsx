@@ -98,8 +98,8 @@ export default function Dashboard({
                 </span>
               </div>
 
-              <div className="card-title">
-                <span className="jp">{s.name}</span>
+              <div className="card-title" translate="no">
+                <span className="jp" translate="no">{s.name}</span>
                 <span className="id">{s.name_id}</span>
               </div>
 
@@ -147,8 +147,8 @@ export default function Dashboard({
             <span className="card-badge">8 Soal Nuansa</span>
           </div>
 
-          <div className="card-title">
-            <span className="jp" style={{ fontSize: 18 }}>ボーナス問題</span>
+          <div className="card-title" translate="no">
+            <span className="jp" style={{ fontSize: 18 }} translate="no">ボーナス問題</span>
             <span className="id">Soal Bonus — Nuansa Grammar</span>
           </div>
 

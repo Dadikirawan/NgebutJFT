@@ -28,7 +28,7 @@ export default function ModeSelect({
       {selectedSection ? (
         <p className="page-subtitle">
           Kamu memilih bagian: <b>{selectedSection.name_id || selectedSection.name_id}</b> (
-          {selectedSection.name}). Pilih mode di bawah ini.
+          <span translate="no">{selectedSection.name}</span>). Pilih mode di bawah ini.
         </p>
       ) : (
         <p className="page-subtitle">Pilih salah satu mode untuk memulai latihan.</p>
@@ -72,7 +72,7 @@ export default function ModeSelect({
                 className="btn btn-secondary"
                 onClick={() => startQuiz('section', s.id)}
               >
-                {s.id}. {s.name_id} / {s.name}
+                {s.id}. {s.name_id} / <span translate="no">{s.name}</span>
               </button>
             ))}
           </div>

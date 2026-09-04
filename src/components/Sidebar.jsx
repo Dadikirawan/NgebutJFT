@@ -104,7 +104,7 @@ export default function Sidebar({
 
 function SidebarBrand({ collapsed, onToggle }) {
   return (
-    <div className="sidebar-brand">
+    <div className="sidebar-brand" translate="no">
       <div className="brand" style={{ padding: 0, background: 'transparent', border: 'none', color: 'inherit' }}>
         <span className="brand-mark" aria-hidden="true">J</span>
         {!collapsed && (
@@ -144,7 +144,7 @@ function SidebarMenu({ menu, collapsed, onAction, activeRoute }) {
             <span className="sb-icon" aria-hidden="true">{item.icon}</span>
             {!collapsed && (
               <span className="sb-label">
-                <span className="sb-jp">{item.labelJp}</span>
+                <span className="sb-jp" translate="no">{item.labelJp}</span>
                 <span className="sb-id">{item.labelId}</span>
               </span>
             )}

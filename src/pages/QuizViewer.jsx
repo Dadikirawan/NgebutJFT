@@ -317,10 +317,14 @@ function ContextBoxDynamic({ contextObj, count }) {
   const hasAudio = isDialogue && audioStatus === 'available';
 
   return (
-    <div className="context-box">
+    <div className="context-box" translate="no">
       <div className="context-head">
-        <h4>
-          {contextObj.type === 'dialogue' ? 'Dialog / 会話' : contextObj.type === 'passage' ? 'Bacaan / 読解文' : 'Context'}
+        <h4 translate="no">
+          {contextObj.type === 'dialogue'
+            ? <>Dialog / <span translate="no">会話</span></>
+            : contextObj.type === 'passage'
+              ? <>Bacaan / <span translate="no">読解文</span></>
+              : 'Context'}
         </h4>
         <span className="context-badge">{count} soal</span>
       </div>
@@ -370,15 +374,15 @@ function QuestionItem({ q, selection, submission, onSelect, displayIndex }) {
       {isKanjiReading ? (
         <div className="q-prompt q-prompt-kanji">
           {q.instruction && (
-            <div className="q-instruction">{q.instruction}</div>
+            <div className="q-instruction" translate="no">{q.instruction}</div>
           )}
           <div className="q-sentence" translate="no">
             {q.sentence_before ? (
-              <span className="q-sent-before">{q.sentence_before}</span>
+              <span className="q-sent-before" translate="no">{q.sentence_before}</span>
             ) : null}
-            <span className="q-highlight">{q.highlight}</span>
+            <span className="q-highlight" translate="no">{q.highlight}</span>
             {q.sentence_after ? (
-              <span className="q-sent-after">{q.sentence_after}</span>
+              <span className="q-sent-after" translate="no">{q.sentence_after}</span>
             ) : null}
           </div>
         </div>
@@ -426,7 +430,7 @@ function QuestionItem({ q, selection, submission, onSelect, displayIndex }) {
             <span>{submission.correct ? 'Jawaban benar!' : 'Jawaban kurang tepat.'}</span>
           </div>
           {q.explanation && (
-            <div className="explanation">
+            <div className="explanation" translate="no">
               <b>Pembahasan:</b> {q.explanation}
             </div>
           )}

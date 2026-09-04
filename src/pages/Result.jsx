@@ -85,8 +85,8 @@ export default function Result({
           <h3>Breakdown per Bagian</h3>
           {perSection.map((row) => (
             <div className="breakdown-row" key={row.sectionId}>
-              <div className="lbl">
-                Bagian {row.sectionId} — {row.nameJp}
+              <div className="lbl" translate="no">
+                Bagian {row.sectionId} — <span translate="no">{row.nameJp}</span>
                 <small>{row.nameId}</small>
               </div>
               <div style={{ minWidth: 0 }}>
