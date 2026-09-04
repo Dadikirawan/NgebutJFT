@@ -1,5 +1,15 @@
 import data from './ngebutjft_data.json' with { type: 'json' };
 
+export function getMeta() {
+  if (!data?.meta) return {};
+  return {
+    ...data.meta,
+    source: data.meta.source,
+    total_questions: typeof data.meta.total_questions === 'number' ? data.meta.total_questions : (data.questions?.length ?? 0),
+    total_bonus: typeof data.meta.total_bonus === 'number' ? data.meta.total_bonus : (data.bonus?.length ?? 0),
+  };
+}
+
 export function getSectionInfo() {
   if (!data?.meta?.sections) return [];
   return data.meta.sections;

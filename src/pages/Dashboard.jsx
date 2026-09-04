@@ -8,6 +8,8 @@ export default function Dashboard({
   helpers,
 }) {
   const sections = helpers.getSectionInfo();
+  const meta = helpers.getMeta?.() ?? {};
+  const totalQuestions = Number(meta.total_questions ?? 0) || 200;
   const bonus = bonusProgress();
 
   return (
@@ -16,7 +18,7 @@ export default function Dashboard({
         <div>
           <h1 className="page-title">Dashboard Latihanmu</h1>
           <p className="page-subtitle">
-            Asah kemampuan JFT-Basic secara bertahap. Kerjakan per bagian, atau langsung tantang simulasi lengkap 200 soal.
+            Asah kemampuan JFT-Basic secara bertahap. Kerjakan per bagian, atau langsung tantang simulasi lengkap {totalQuestions} soal.
           </p>
         </div>
       </div>
@@ -65,7 +67,7 @@ export default function Dashboard({
 
       <section className="top-cta">
         <div>
-          <h3>Mulai Simulasi Lengkap 200 Soal</h3>
+          <h3>Mulai Simulasi Lengkap {totalQuestions} Soal</h3>
           <p>
             Mode pengalaman penuh seperti tes asli: 4 bagian berurutan tanpa bonus. Cocok untuk latihan simulasi sungguhan.
           </p>
@@ -74,10 +76,10 @@ export default function Dashboard({
           type="button"
           className="btn"
           onClick={() => startQuiz('full')}
-          aria-label="Mulai simulasi lengkap 200 soal"
+          aria-label={`Mulai simulasi lengkap ${totalQuestions} soal`}
         >
           <span aria-hidden="true">▶</span>
-          Mulai Simulasi Lengkap (200 Soal)
+          Mulai Simulasi Lengkap ({totalQuestions} Soal)
         </button>
       </section>
 

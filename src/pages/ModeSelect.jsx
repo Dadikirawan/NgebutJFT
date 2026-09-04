@@ -6,6 +6,8 @@ export default function ModeSelect({
 }) {
   const sections = helpers.getSectionInfo();
   const bonus = helpers.getBonusQuestions();
+  const meta = helpers.getMeta?.() ?? {};
+  const totalQuestions = Number(meta.total_questions ?? 0) || 200;
 
   const selectedSection = sectionId === 'bonus'
     ? { id: 'bonus', name: 'ボーナス問題', name_id: 'Soal Bonus', description: '8 soal nuansa pilihan. Latihan tambahan di luar simulasi utama.', count: bonus.length }
@@ -39,9 +41,9 @@ export default function ModeSelect({
           <div className="ico" aria-hidden="true">🧩</div>
           <div className="stack" style={{ gap: 8 }}>
             <h4>Simulasi Lengkap</h4>
-            <p>200 soal dari Bagian 1 sampai Bagian 4 secara berurutan (tidak termasuk bonus). Cocok untuk simulasi tes sungguhan.</p>
+            <p>{totalQuestions} soal dari Bagian 1 sampai Bagian 4 secara berurutan (tidak termasuk bonus). Cocok untuk simulasi tes sungguhan.</p>
             <div className="mode-meta">
-              <span className="chip teal">200 soal</span>
+              <span className="chip teal">{totalQuestions} soal</span>
               <span className="chip">4 Bagian</span>
             </div>
           </div>
@@ -82,7 +84,7 @@ export default function ModeSelect({
           <div className="ico" aria-hidden="true">🎁</div>
           <div className="stack" style={{ gap: 8 }}>
             <h4>Latihan Bonus</h4>
-            <p>8 soal nuansa tambahan (bukan bagian dari 200 soal inti) untuk mempertajam rasa bahasa dan perbedaan nuansa kalimat.</p>
+            <p>8 soal nuansa tambahan (bukan bagian dari {totalQuestions} soal inti) untuk mempertajam rasa bahasa dan perbedaan nuansa kalimat.</p>
             <div className="mode-meta">
               <span className="chip warn">8 soal bonus</span>
               <span className="chip">Nuansa grammar</span>

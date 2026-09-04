@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import {
+  getMeta,
   getSectionInfo,
   getQuestionsBySection,
   getBonusQuestions,
@@ -133,6 +134,8 @@ function bonusProgress(answeredIds) {
 }
 
 function buildQuiz(mode, sectionId = null) {
+  const meta = getMeta();
+  const totalQ = Number(meta.total_questions ?? 0) || 200;
   if (mode === 'full') {
     const sections = getSectionInfo();
     const shuffledParts = sections.map((s) => shuffleQuestionList(getQuestionsBySection(s.id)));
@@ -140,7 +143,7 @@ function buildQuiz(mode, sectionId = null) {
     return {
       mode,
       title: 'Simulasi Lengkap',
-      description: '200 soal berurutan — Semua Bagian (tidak termasuk bonus)',
+      description: `${totalQ} soal berurutan — Semua Bagian (tidak termasuk bonus)`,
       items,
       breakdown: sections.map((s) => ({
         sectionId: s.id,
@@ -263,7 +266,7 @@ export default function App() {
     resetProgress,
     activeQuiz,
     result,
-    helpers: { getSectionInfo, getQuestionsBySection, getBonusQuestions, getContextForQuestion, groupQuestionsByContext },
+    helpers: { getMeta, getSectionInfo, getQuestionsBySection, getBonusQuestions, getContextForQuestion, groupQuestionsByContext },
   };
 
   let page = null;

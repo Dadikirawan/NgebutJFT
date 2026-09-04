@@ -363,7 +363,7 @@ function QuestionItem({ q, selection, submission, onSelect, displayIndex }) {
   const options = Array.isArray(q.options) ? q.options : [];
   const submitted = !!submission;
   const correctIdx = q.answer_index;
-  const isKanjiReading = q?.subtype === 'kanji_reading'
+  const isKanjiReading = (q?.subtype === 'kanji_reading' || q?.subtype === 'kanji_writing')
     && typeof q?.instruction === 'string'
     && typeof q?.highlight === 'string';
 
